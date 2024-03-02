@@ -1,0 +1,17 @@
+version: '3.2'
+
+services:
+  oracle:
+    image: gvenzl/oracle-xe:11
+    container_name: oracle_db
+    ports:
+      - 1521:1521
+    volumes:
+      - oracle-volume:/u01/app/oracle/oradata
+    environment:
+      - ORACLE_RANDOM_PASSWORD=true
+      - APP_USER=database
+      - APP_USER_PASSWORD=database
+volumes:
+  oracle-volume:
+    driver: local
