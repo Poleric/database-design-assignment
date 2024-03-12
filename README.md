@@ -1,7 +1,12 @@
-Connecting Database
---------------
+Prerequisites
+-------------
 
-- Have [Docker](https://www.docker.com/get-started/)
+
+- [Oracle SQL Instant Client](https://www.oracle.com/database/technologies/instant-client/downloads.html)
+- [Docker](https://www.docker.com/get-started/)
+
+Running the database
+--------------------
 
 1. Run 
    ```shell
@@ -11,3 +16,4 @@ Connecting Database
    ```shell
    sqlplus database/database@localhost
    ```
+3. Press `Ctrl + C` to close the 
