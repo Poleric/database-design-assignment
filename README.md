@@ -16,4 +16,4 @@ Running the database
    ```shell
    sqlplus database/database@localhost
    ```
-3. Press `Ctrl + C` to close the 
+3. Press `Ctrl + C` to close the database once done.
