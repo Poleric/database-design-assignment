@@ -1,2 +1,5 @@
 .idea/
+
+# drawio temps
 *.drawio.bkp
+*.drawio.dtmp
