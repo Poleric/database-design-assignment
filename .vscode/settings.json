@@ -1,0 +1,24 @@
+{
+    "oracledevtools.defaultConnection": "SFS_SERVICE.XE",
+    "oracledevtools.connections": [
+        {
+            "authenticationType": 2,
+            "dBAPrivilege": "None",
+            "userID": "SFS_SERVICE",
+            "passwordSaved": false,
+            "dataSource": "halleyey.uk:25522/XE",
+            "connectionType": 2,
+            "databaseHostName": "halleyey.uk",
+            "databasePortNumber": "25522",
+            "databaseServiceName": "XE",
+            "tnsAdmin": "C:\\Users\\User\\Oracle\\network\\admin",
+            "name": "SFS_SERVICE.XE",
+            "color": "none",
+            "currentSchema": "",
+            "addSettingsScopeToConnectionName": false,
+            "addCurrentSchemaToConnectionName": false,
+            "filters": [],
+            "useCompatibleNamesDirectoryPath": true
+        }
+    ]
+}
