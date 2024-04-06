@@ -3,10 +3,10 @@
 # cd to file path
 cd "$(dirname "$0")" || return
 
-cat ../scripts/create/*create*.sql > ../create.sql
-cat ../scripts/insert/*insert*.sql > ../insert.sql
+cd ../scripts/ || return
 
-cd ..
+cat ./create/*create*.sql > ./create_all.sql
+cat ./insert/*insert*.sql > ./insert_all.sql
 cat create.sql insert.sql > run.sql
 
 # cleanup
