@@ -1,6 +1,6 @@
 CREATE TABLE ACCOUNT (
     account_id       NUMBER        NOT NULL,
-    username         VARCHAR(255)  NOT NULL,
+    username         VARCHAR(255)  NOT NULL UNIQUE,
     hashed_password  VARCHAR(60)   NOT NULL,
     joined_date      TIMESTAMP     NOT NULL,
     email_address    VARCHAR(254)  NOT NULL,
