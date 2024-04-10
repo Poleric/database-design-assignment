@@ -5,10 +5,7 @@ cd "$(dirname "$0")" || return
 
 cd ../scripts/ || return
 
-cat ./create/*create*.sql > ./create_all.sql
-cat ./insert/*insert*.sql > ./insert_all.sql
-cat create.sql insert.sql > run.sql
+awk '{print $0}' ./create/*.sql > create_all.sql
+awk '{print $0}' ./insert/*.sql > insert_all.sql
 
-# cleanup
-#rm create.sql
-#rm insert.sql
+awk '{print $0}' create_all.sql insert_all.sql > run.sql
