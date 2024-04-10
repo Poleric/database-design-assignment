@@ -1,5 +1,5 @@
 CREATE TABLE CREW_ROLE(
-    crew_role_id VARCHAR(10) NOT NULL,
-    role_description VARCHAR(200),
+    crew_role_id  VARCHAR(4)   NOT NULL,
+    role_name     VARCHAR(20)  NOT NULL,
     PRIMARY KEY (crew_role_id)
-)
+);
