@@ -7,3 +7,4 @@ CREATE TABLE AIRCRAFT_MODEL (
     PRIMARY KEY (aircraft_model_id),
     FOREIGN KEY (aircraft_type_id) REFERENCES AIRCRAFT_TYPE(aircraft_type_id)
 );
+
