@@ -1,10 +1,8 @@
-CREATE TABLE FLIGHT(
-    flight_id VARCHAR(10) NOT NULL,
-    route_id NUMBER NOT NULL,
-    aircraft_id VARCHAR(10) NOT NULL,
-    departure_date_time DATE NOT NULL,
-    estimated_flight_duration NUMBER NOT NULL,
-    PRIMARY KEY (flight_id),
-    FOREIGN KEY (route_id) REFERENCES ROUTE(route_id),
-    FOREIGN KEY (aircraft_id) REFERENCES AIRCRAFT(aircraft_id)
-)
+CREATE TABLE FLIGHT (
+    flight_id             VARCHAR(10) PRIMARY KEY ,
+    route_id              VARCHAR(7)   NOT NULL REFERENCES ROUTE(route_id),
+    aircraft_id           VARCHAR(10)  NOT NULL REFERENCES AIRCRAFT(aircraft_id),
+    departure_datetime    TIMESTAMP    NOT NULL,
+    est_duration_in_hour  NUMBER       NOT NULL,
+    is_codeshare          NUMBER(1)    NOT NULL CHECK (is_codeshare IN (0, 1) )  -- boolean
+);
