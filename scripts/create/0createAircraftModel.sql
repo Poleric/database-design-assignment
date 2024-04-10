@@ -5,4 +5,3 @@ CREATE TABLE AIRCRAFT_MODEL (
     release_date        DATE         NOT NULL,
     PRIMARY KEY (aircraft_model_id)
 );
-
