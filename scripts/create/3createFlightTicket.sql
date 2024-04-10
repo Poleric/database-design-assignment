@@ -6,4 +6,4 @@ CREATE TABLE FLIGHT_TICKET(
     ticket_price NUMBER(7,2),
     PRIMARY KEY (flight_ticket_id),
     FOREIGN KEY (account_id) REFERENCES ACCOUNT(account_id)
-)
+);
