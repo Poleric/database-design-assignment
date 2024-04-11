@@ -1,0 +1,2 @@
+INSERT ALL
+    INTO FLIGHT_ATTENDANT (employee_id) VALUES ('')
