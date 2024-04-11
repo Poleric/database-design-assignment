@@ -3,3 +3,9 @@
 # drawio temps
 *.drawio.bkp
 *.drawio.dtmp
+
+# generated files
+create_all.sql
+create_trigger_all.sqll
+insert_all.sql
+run.sql
