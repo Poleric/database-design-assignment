@@ -10,3 +10,4 @@ BEGIN
             WHERE PAYMENT_ID = :NEW.PAYMENT_ID
         );
 END;
+/

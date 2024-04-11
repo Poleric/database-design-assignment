@@ -7,3 +7,4 @@ BEGIN
     SELECT NVL(COUNT(*), 1) INTO last_seat_id FROM SEAT WHERE AIRCRAFT_ID = :NEW.AIRCRAFT_ID;
     :NEW.SEAT_ID := (:NEW.AIRCRAFT_ID || LPAD(last_seat_id + 1, 4, '0'));
 END;
+/
