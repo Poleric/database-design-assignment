@@ -1,1000 +1,1002 @@
-insert into airport (airport_id, airport_fullname, country_id) values ('DMD', 'Doomadgee Airport', 'GY');
-insert into airport (airport_id, airport_fullname, country_id) values ('YQH', 'Watson Lake Airport', 'BY');
-insert into airport (airport_id, airport_fullname, country_id) values ('SRI', 'Temindung Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('BOS', 'General Edward Lawrence Logan International Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('ERD', 'Berdyansk Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('JCT', 'Kimble County Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('EBM', 'El Borma Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('BHR', 'Bharatpur Airport', 'BR');
-insert into airport (airport_id, airport_fullname, country_id) values ('NOR', 'Norðfjörður Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('NSN', 'Nelson Airport', 'CA');
-insert into airport (airport_id, airport_fullname, country_id) values ('RNR', 'Robinson River Airport', 'FI');
-insert into airport (airport_id, airport_fullname, country_id) values ('DOD', 'Dodoma Airport', 'JP');
-insert into airport (airport_id, airport_fullname, country_id) values ('LAZ', 'Bom Jesus da Lapa Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('PGF', 'Perpignan-Rivesaltes (Llabanère) Airport', 'UA');
-insert into airport (airport_id, airport_fullname, country_id) values ('CIU', 'Chippewa County International Airport', 'BR');
-insert into airport (airport_id, airport_fullname, country_id) values ('LOS', 'Murtala Muhammed International Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('PLH', 'Plymouth City Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('IFA', 'Iowa Falls Municipal Airport', 'CL');
-insert into airport (airport_id, airport_fullname, country_id) values ('FSN', 'Haley Army Airfield', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('RCQ', 'Reconquista Airport', 'CA');
-insert into airport (airport_id, airport_fullname, country_id) values ('ATC', 'Arthur''s Town Airport', 'FI');
-insert into airport (airport_id, airport_fullname, country_id) values ('LDM', 'Mason County Airport', 'ZA');
-insert into airport (airport_id, airport_fullname, country_id) values ('RNO', 'Reno Tahoe International Airport', 'BR');
-insert into airport (airport_id, airport_fullname, country_id) values ('HEI', 'Heide-Büsum Airport', 'GR');
-insert into airport (airport_id, airport_fullname, country_id) values ('MEK', 'Bassatine Airport', 'SI');
-insert into airport (airport_id, airport_fullname, country_id) values ('TKG', 'Radin Inten II (Branti) Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('NHK', 'Patuxent River Naval Air Station (Trapnell Field)', 'CZ');
-insert into airport (airport_id, airport_fullname, country_id) values ('TAP', 'Tapachula International Airport', 'DO');
-insert into airport (airport_id, airport_fullname, country_id) values ('CWT', 'Cowra Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('MGG', 'Margarima Airport', 'CZ');
-insert into airport (airport_id, airport_fullname, country_id) values ('BWP', 'Bewani Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('UTH', 'Udon Thani Airport', 'GR');
-insert into airport (airport_id, airport_fullname, country_id) values ('WLK', 'Selawik Airport', 'VN');
-insert into airport (airport_id, airport_fullname, country_id) values ('GZM', 'Xewkija Heliport', 'PT');
-insert into airport (airport_id, airport_fullname, country_id) values ('EMP', 'Emporia Municipal Airport', 'CO');
-insert into airport (airport_id, airport_fullname, country_id) values ('KYI', 'Yalata Mission Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('IXH', 'Kailashahar Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('BCJ', 'Baca Grande Airfield', 'MX');
-insert into airport (airport_id, airport_fullname, country_id) values ('COR', 'Ingeniero Ambrosio Taravella Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('CBT', 'Catumbela Airport', 'BR');
-insert into airport (airport_id, airport_fullname, country_id) values ('SSX', 'Singita Safari Lodge Airport', 'PT');
-insert into airport (airport_id, airport_fullname, country_id) values ('XXN', 'Riyadh Air Base', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('YXU', 'London Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('CXO', 'Conroe-North Houston Regional Airport', 'AF');
-insert into airport (airport_id, airport_fullname, country_id) values ('DZO', 'Santa Bernardina International Airport', 'LK');
-insert into airport (airport_id, airport_fullname, country_id) values ('BMQ', 'Bamburi Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('JSJ', 'Jiansanjiang Airport', 'DE');
-insert into airport (airport_id, airport_fullname, country_id) values ('YBP', 'Yibin Caiba Airport', 'RS');
-insert into airport (airport_id, airport_fullname, country_id) values ('CBL', 'Aeropuerto "General Tomas de Heres". Ciudad Bolivar', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('NHS', 'Nushki Airport', 'YE');
-insert into airport (airport_id, airport_fullname, country_id) values ('CXA', 'Caicara del Orinoco Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('UPR', 'Upiara Airport', 'UA');
-insert into airport (airport_id, airport_fullname, country_id) values ('HIW', 'Hiroshimanishi Airport', 'CZ');
-insert into airport (airport_id, airport_fullname, country_id) values ('CIO', 'Teniente Col Carmelo Peralta Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('CXM', 'Camaxilo Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('JUL', 'Inca Manco Capac International Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('KZG', 'Flugplatz Kitzingen', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('SDX', 'Sedona Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('TER', 'Lajes Airport', 'CV');
-insert into airport (airport_id, airport_fullname, country_id) values ('LBK', 'Liboi Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('YGW', 'Kuujjuarapik Airport', 'BY');
-insert into airport (airport_id, airport_fullname, country_id) values ('RAT', 'Raduzhny Airport', 'BR');
-insert into airport (airport_id, airport_fullname, country_id) values ('FRB', 'Forbes Airport', 'PE');
-insert into airport (airport_id, airport_fullname, country_id) values ('HEG', 'Heglig Airport', 'PL');
-insert into airport (airport_id, airport_fullname, country_id) values ('UTR', 'Uttaradit Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('KAB', 'Kariba International Airport', 'ML');
-insert into airport (airport_id, airport_fullname, country_id) values ('FTW', 'Fort Worth Meacham International Airport', 'AR');
-insert into airport (airport_id, airport_fullname, country_id) values ('AOL', 'Paso De Los Libres Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('YAK', 'Yakutat Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('EVE', 'Harstad/Narvik Airport, Evenes', 'AM');
-insert into airport (airport_id, airport_fullname, country_id) values ('SKN', 'Stokmarknes Skagen Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('LDY', 'City of Derry Airport', 'LV');
-insert into airport (airport_id, airport_fullname, country_id) values ('ZUC', 'Ignace Municipal Airport', 'TZ');
-insert into airport (airport_id, airport_fullname, country_id) values ('GSO', 'Piedmont Triad International Airport', 'AR');
-insert into airport (airport_id, airport_fullname, country_id) values ('TDN', 'Theda Station Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('ZVK', 'Savannakhet Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('OEO', 'L O Simenstad Municipal Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('CMX', 'Houghton County Memorial Airport', 'UZ');
-insert into airport (airport_id, airport_fullname, country_id) values ('QMH', 'Oum el Bouaghi airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('ZQW', 'Zweibrücken Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('SNM', 'San Ignacio de Moxos Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('SOO', 'Söderhamn Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('MOJ', 'Moengo Airstrip', 'TH');
-insert into airport (airport_id, airport_fullname, country_id) values ('SZP', 'Santa Paula Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('DRF', 'Drift River Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('PPD', 'Palmas del Mar Airstrip', 'ZA');
-insert into airport (airport_id, airport_fullname, country_id) values ('CWL', 'Cardiff International Airport', 'RS');
-insert into airport (airport_id, airport_fullname, country_id) values ('SDS', 'Sado Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('MTJ', 'Montrose Regional Airport', 'PL');
-insert into airport (airport_id, airport_fullname, country_id) values ('FUB', 'Fulleborn Airport', 'GR');
-insert into airport (airport_id, airport_fullname, country_id) values ('PYH', 'Cacique Aramare Airport', 'GR');
-insert into airport (airport_id, airport_fullname, country_id) values ('SME', 'Lake Cumberland Regional Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('NEF', 'Neftekamsk Airport', 'RS');
-insert into airport (airport_id, airport_fullname, country_id) values ('RNI', 'Corn Island', 'ZA');
-insert into airport (airport_id, airport_fullname, country_id) values ('CKV', 'Clarksville–Montgomery County Regional Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('MZH', 'Amasya Merzifon Airport', 'BR');
-insert into airport (airport_id, airport_fullname, country_id) values ('AZN', 'Andizhan Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('BFH', 'Bacacheri Airport', 'MN');
-insert into airport (airport_id, airport_fullname, country_id) values ('KWE', 'Longdongbao Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('XKY', 'Kaya Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('MPA', 'Katima Mulilo Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('RHN', 'Skorpion Mine Airport', 'SE');
-insert into airport (airport_id, airport_fullname, country_id) values ('NOD', 'Norden-Norddeich Airport', 'FM');
-insert into airport (airport_id, airport_fullname, country_id) values ('KPN', 'Kipnuk Airport', 'SE');
-insert into airport (airport_id, airport_fullname, country_id) values ('KQH', 'Kishangarh Airport', 'ET');
-insert into airport (airport_id, airport_fullname, country_id) values ('OPB', 'Open Bay Airport', 'SE');
-insert into airport (airport_id, airport_fullname, country_id) values ('GOZ', 'Gorna Oryahovitsa Airport', 'UG');
-insert into airport (airport_id, airport_fullname, country_id) values ('YCB', 'Cambridge Bay Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('AHZ', 'Altiport L''Alpe d''Huez - Henri GIRAUD', 'LV');
-insert into airport (airport_id, airport_fullname, country_id) values ('MSD', 'Mount Pleasant Airport', 'AR');
-insert into airport (airport_id, airport_fullname, country_id) values ('ADN', 'Andes Airport', 'CZ');
-insert into airport (airport_id, airport_fullname, country_id) values ('RAG', 'Raglan Airfield', 'PT');
-insert into airport (airport_id, airport_fullname, country_id) values ('MLC', 'Mc Alester Regional Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('HWD', 'Hayward Executive Airport', 'NG');
-insert into airport (airport_id, airport_fullname, country_id) values ('HTT', 'Huatugou Airport', 'BR');
-insert into airport (airport_id, airport_fullname, country_id) values ('CIP', 'Chipata Airport', 'MX');
-insert into airport (airport_id, airport_fullname, country_id) values ('ANF', 'Andrés Sabella Gálvez International Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('CJL', 'Chitral Airport', 'US');
-insert into airport (airport_id, airport_fullname, country_id) values ('MNR', 'Mongu Airport', 'KE');
-insert into airport (airport_id, airport_fullname, country_id) values ('WIO', 'Wilcannia Airport', 'VN');
-insert into airport (airport_id, airport_fullname, country_id) values ('VYD', 'Vryheid Airport', 'UA');
-insert into airport (airport_id, airport_fullname, country_id) values ('KAF', 'Karato Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('DCY', 'Daocheng Yading Airport', 'ES');
-insert into airport (airport_id, airport_fullname, country_id) values ('NRG', 'Narrogin Airport', 'FR');
-insert into airport (airport_id, airport_fullname, country_id) values ('LUL', 'Hesler Noble Field', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('BVA', 'Paris Beauvais Tillé Airport', 'AL');
-insert into airport (airport_id, airport_fullname, country_id) values ('VIA', 'Videira Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('LWE', 'Lewoleba Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('ASM', 'Asmara International Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('BUN', 'Gerardo Tobar López Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('OXC', 'Waterbury Oxford Airport', 'GN');
-insert into airport (airport_id, airport_fullname, country_id) values ('ELP', 'El Paso International Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('CRA', 'Craiova Airport', 'YE');
-insert into airport (airport_id, airport_fullname, country_id) values ('MOZ', 'Moorea Airport', 'NG');
-insert into airport (airport_id, airport_fullname, country_id) values ('TML', 'Tamale Airport', 'BR');
-insert into airport (airport_id, airport_fullname, country_id) values ('GOL', 'Gold Beach Municipal Airport', 'MG');
-insert into airport (airport_id, airport_fullname, country_id) values ('MLA', 'Malta International Airport', 'PT');
-insert into airport (airport_id, airport_fullname, country_id) values ('SZB', 'Sultan Abdul Aziz Shah International Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('FSC', 'Figari Sud-Corse Airport', 'GR');
-insert into airport (airport_id, airport_fullname, country_id) values ('WLS', 'Hihifo Airport', 'TH');
-insert into airport (airport_id, airport_fullname, country_id) values ('CVH', 'Caviahue Airport', 'SE');
-insert into airport (airport_id, airport_fullname, country_id) values ('PIT', 'Pittsburgh International Airport', 'VE');
-insert into airport (airport_id, airport_fullname, country_id) values ('PEN', 'Penang International Airport', 'FR');
-insert into airport (airport_id, airport_fullname, country_id) values ('KAP', 'Kapanga Airport', 'TH');
-insert into airport (airport_id, airport_fullname, country_id) values ('0', 'Rio Paranaíba Airport', 'SI');
-insert into airport (airport_id, airport_fullname, country_id) values ('FDR', 'Frederick Regional Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('CLG', 'Coalinga Airport', 'AR');
-insert into airport (airport_id, airport_fullname, country_id) values ('HOA', 'Hola Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('SII', 'Sidi Ifni Xx Airport', 'PE');
-insert into airport (airport_id, airport_fullname, country_id) values ('NDR', 'Nador International Airport', 'KG');
-insert into airport (airport_id, airport_fullname, country_id) values ('BYT', 'Bantry Aerodrome', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('KDZ', 'Polgolla Reservoir Seaplane Base', 'PT');
-insert into airport (airport_id, airport_fullname, country_id) values ('PPX', 'Param Airport', 'FR');
-insert into airport (airport_id, airport_fullname, country_id) values ('RSK', 'Abresso Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('RNZ', 'Jasper County Airport', 'PT');
-insert into airport (airport_id, airport_fullname, country_id) values ('DCI', 'Decimomannu Air Base', 'PL');
-insert into airport (airport_id, airport_fullname, country_id) values ('MJR', 'Miramar Airport', 'UA');
-insert into airport (airport_id, airport_fullname, country_id) values ('KLY', 'Kinkungwa Airport', 'BG');
-insert into airport (airport_id, airport_fullname, country_id) values ('HUX', 'Bahías de Huatulco International Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('OYP', 'Saint-Georges-de-l''Oyapock Airport', 'SI');
-insert into airport (airport_id, airport_fullname, country_id) values ('YEG', 'Edmonton International Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('GXQ', 'Teniente Vidal Airport', 'US');
-insert into airport (airport_id, airport_fullname, country_id) values ('MUG', 'Mulege Airport', 'GR');
-insert into airport (airport_id, airport_fullname, country_id) values ('YSP', 'Marathon Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('MQC', 'Miquelon Airport', 'GT');
-insert into airport (airport_id, airport_fullname, country_id) values ('MGI', 'Matagorda Island Air Force Base', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('KEH', 'Kenmore Air Harbor Inc Seaplane Base', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('DPS', 'Ngurah Rai (Bali) International Airport', 'AL');
-insert into airport (airport_id, airport_fullname, country_id) values ('AXK', 'Ataq Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('RNL', 'Rennell/Tingoa Airport', 'PE');
-insert into airport (airport_id, airport_fullname, country_id) values ('SUR', 'Summer Beaver Airport', 'BR');
-insert into airport (airport_id, airport_fullname, country_id) values ('LYA', 'Luoyang Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('CKN', 'Crookston Municipal Kirkwood Field', 'SE');
-insert into airport (airport_id, airport_fullname, country_id) values ('ACV', 'California Redwood Coast-Humboldt County Airport', 'RE');
-insert into airport (airport_id, airport_fullname, country_id) values ('BFL', 'Meadows Field', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('JEJ', 'Jeh Airport', 'FI');
-insert into airport (airport_id, airport_fullname, country_id) values ('MZU', 'Muzaffarpur Airport', 'AF');
-insert into airport (airport_id, airport_fullname, country_id) values ('ZEN', 'Zenag Airport', 'CA');
-insert into airport (airport_id, airport_fullname, country_id) values ('ITU', 'Iturup Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('CZA', 'Chichen Itza International Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('OUA', 'Ouagadougou Airport', 'BR');
-insert into airport (airport_id, airport_fullname, country_id) values ('ISU', 'Sulaymaniyah International Airport', 'HR');
-insert into airport (airport_id, airport_fullname, country_id) values ('MNN', 'Marion Municipal Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('BZH', 'Bumi Airport', 'HR');
-insert into airport (airport_id, airport_fullname, country_id) values ('JTC', 'Bauru - Arealva Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('AIH', 'Aiambak Airport', 'IL');
-insert into airport (airport_id, airport_fullname, country_id) values ('EWK', 'Newton City-County Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('TDK', 'Taldykorgan Airport', 'UA');
-insert into airport (airport_id, airport_fullname, country_id) values ('HOI', 'Hao Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('FAI', 'Fairbanks International Airport', 'FR');
-insert into airport (airport_id, airport_fullname, country_id) values ('LMZ', 'Palma Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('BXV', 'Breiðdalsvík Airport', 'AR');
-insert into airport (airport_id, airport_fullname, country_id) values ('MGQ', 'Aden Adde International Airport', 'CA');
-insert into airport (airport_id, airport_fullname, country_id) values ('CAW', 'Bartolomeu Lisandro Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('FRS', 'Mundo Maya International Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('GOI', 'Dabolim Airport', 'FR');
-insert into airport (airport_id, airport_fullname, country_id) values ('PMV', 'Del Caribe Santiago Mariño International Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('FBD', 'Fayzabad Airport', 'PT');
-insert into airport (airport_id, airport_fullname, country_id) values ('RPR', 'Raipur Airport', 'PL');
-insert into airport (airport_id, airport_fullname, country_id) values ('GNT', 'Grants-Milan Municipal Airport', 'GB');
-insert into airport (airport_id, airport_fullname, country_id) values ('DGM', 'Dandugama Seaplane Base', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('SUM', 'Sumter Airport', 'BZ');
-insert into airport (airport_id, airport_fullname, country_id) values ('SRP', 'Stord Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('OTC', 'Bol Airport', 'PL');
-insert into airport (airport_id, airport_fullname, country_id) values ('ZTS', 'Tahsis Seaplane Base', 'US');
-insert into airport (airport_id, airport_fullname, country_id) values ('XLO', 'Long Xuyên Airport', 'JP');
-insert into airport (airport_id, airport_fullname, country_id) values ('TLF', 'Telida Airport', 'TH');
-insert into airport (airport_id, airport_fullname, country_id) values ('FKJ', 'Fukui Airport', 'BR');
-insert into airport (airport_id, airport_fullname, country_id) values ('NOC', 'Ireland West Knock Airport', 'US');
-insert into airport (airport_id, airport_fullname, country_id) values ('RGE', 'Porgera Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('PCV', 'Punta Chivato Airport', 'SE');
-insert into airport (airport_id, airport_fullname, country_id) values ('OHR', 'Wyk auf Föhr Airport', 'PL');
-insert into airport (airport_id, airport_fullname, country_id) values ('SEH', 'Senggeh Airport', 'PK');
-insert into airport (airport_id, airport_fullname, country_id) values ('SRU', 'Santa Cruz Sky Park', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('LDC', 'Lindeman Island Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('VYS', 'Illinois Valley Regional Airport-Walter A Duncan Field', 'AR');
-insert into airport (airport_id, airport_fullname, country_id) values ('PTZ', 'Rio Amazonas Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('TEV', 'Teruel Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('SFF', 'Felts Field', 'MX');
-insert into airport (airport_id, airport_fullname, country_id) values ('KKE', 'Kerikeri Airport', 'US');
-insert into airport (airport_id, airport_fullname, country_id) values ('YGY', 'Deception Airport', 'PL');
-insert into airport (airport_id, airport_fullname, country_id) values ('ZHM', 'Shamshernagar Airport', 'BR');
-insert into airport (airport_id, airport_fullname, country_id) values ('KYU', 'Koyukuk Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('LUW', 'Syukuran Aminuddin Amir Airport', 'DE');
-insert into airport (airport_id, airport_fullname, country_id) values ('TRJ', 'Tarakbits Airport', 'UA');
-insert into airport (airport_id, airport_fullname, country_id) values ('TRH', 'Trona Airport', 'GT');
-insert into airport (airport_id, airport_fullname, country_id) values ('AYS', 'Waycross Ware County Airport', 'BD');
-insert into airport (airport_id, airport_fullname, country_id) values ('BLG', 'Belaga Airport', 'PT');
-insert into airport (airport_id, airport_fullname, country_id) values ('MPU', 'Mapua(Mabua) Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('NDE', 'Mandera Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('SKK', 'Shaktoolik Airport', 'PT');
-insert into airport (airport_id, airport_fullname, country_id) values ('YPJ', 'Aupaluk Airport', 'CO');
-insert into airport (airport_id, airport_fullname, country_id) values ('WHD', 'Hyder Seaplane Base', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('PEK', 'Beijing Capital International Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('LNV', 'Londolovit Airport', 'FR');
-insert into airport (airport_id, airport_fullname, country_id) values ('PIN', 'Parintins Airport', 'BJ');
-insert into airport (airport_id, airport_fullname, country_id) values ('AHU', 'Cherif Al Idrissi Airport', 'SV');
-insert into airport (airport_id, airport_fullname, country_id) values ('OCE', 'Ocean City Municipal Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('BMF', 'Bakouma Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('UAK', 'Narsarsuaq Airport', 'PT');
-insert into airport (airport_id, airport_fullname, country_id) values ('TAK', 'Takamatsu Airport', 'CO');
-insert into airport (airport_id, airport_fullname, country_id) values ('LQM', 'Caucaya Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('FMO', 'Münster Osnabrück Airport', 'PA');
-insert into airport (airport_id, airport_fullname, country_id) values ('ORX', 'Oriximiná Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('AKG', 'Anguganak Airport', 'VN');
-insert into airport (airport_id, airport_fullname, country_id) values ('VLM', 'Teniente Coronel Rafael Pabón Airport', 'PT');
-insert into airport (airport_id, airport_fullname, country_id) values ('WCH', 'Chaitén Airport', 'MY');
-insert into airport (airport_id, airport_fullname, country_id) values ('USH', 'Malvinas Argentinas Airport', 'US');
-insert into airport (airport_id, airport_fullname, country_id) values ('TKP', 'Takapoto Airport', 'BO');
-insert into airport (airport_id, airport_fullname, country_id) values ('VIV', 'Vivigani Airfield', 'UG');
-insert into airport (airport_id, airport_fullname, country_id) values ('YKO', 'Hakkari Yüksekova Airport', 'CH');
-insert into airport (airport_id, airport_fullname, country_id) values ('YYE', 'Fort Nelson Airport', 'ZA');
-insert into airport (airport_id, airport_fullname, country_id) values ('SBS', 'Steamboat Springs Bob Adams Field', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('YEI', 'Bursa Yenişehir Airport', 'ZA');
-insert into airport (airport_id, airport_fullname, country_id) values ('OUA', 'Ouagadougou Airport', 'NA');
-insert into airport (airport_id, airport_fullname, country_id) values ('YLE', 'Whatì Airport', 'EC');
-insert into airport (airport_id, airport_fullname, country_id) values ('FVM', 'Fuvahmulah Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('VOZ', 'Voronezh International Airport', 'LY');
-insert into airport (airport_id, airport_fullname, country_id) values ('BXR', 'Bam Airport', 'BR');
-insert into airport (airport_id, airport_fullname, country_id) values ('YQW', 'North Battleford Airport', 'MA');
-insert into airport (airport_id, airport_fullname, country_id) values ('FTY', 'Fulton County Airport Brown Field', 'MA');
-insert into airport (airport_id, airport_fullname, country_id) values ('MGY', 'Dayton-Wright Brothers Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('JCA', 'Croisette Heliport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('GMV', 'Monument Valley Airport', 'NO');
-insert into airport (airport_id, airport_fullname, country_id) values ('SPP', 'Menongue Airport', 'ME');
-insert into airport (airport_id, airport_fullname, country_id) values ('FRL', 'Forlì Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('SSP', 'Silver Plains Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('FIZ', 'Fitzroy Crossing Airport', 'US');
-insert into airport (airport_id, airport_fullname, country_id) values ('WNA', 'Napakiak Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('SHI', 'Shimojishima Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('ECH', 'Echuca Airport', 'KE');
-insert into airport (airport_id, airport_fullname, country_id) values ('PBI', 'Palm Beach International Airport', 'TZ');
-insert into airport (airport_id, airport_fullname, country_id) values ('EVA', 'Ben Bruce Memorial Airpark', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('THA', 'Tullahoma Regional Arpt/Wm Northern Field', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('QSN', 'San Nicolas De Bari Airport', 'JP');
-insert into airport (airport_id, airport_fullname, country_id) values ('GAI', 'Montgomery County Airpark', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('OAJ', 'Albert J Ellis Airport', 'PL');
-insert into airport (airport_id, airport_fullname, country_id) values ('ALC', 'Alicante International Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('AYT', 'Antalya International Airport', 'PE');
-insert into airport (airport_id, airport_fullname, country_id) values ('RUG', 'Rugao Air Base', 'MX');
-insert into airport (airport_id, airport_fullname, country_id) values ('TPA', 'Tampa International Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('IST', 'Istanbul Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('ITR', 'Francisco Vilela do Amaral Airport', 'TH');
-insert into airport (airport_id, airport_fullname, country_id) values ('PBF', 'Pine Bluff Regional Airport, Grider Field', 'FR');
-insert into airport (airport_id, airport_fullname, country_id) values ('SLU', 'George F. L. Charles Airport', 'HN');
-insert into airport (airport_id, airport_fullname, country_id) values ('SME', 'Lake Cumberland Regional Airport', 'BR');
-insert into airport (airport_id, airport_fullname, country_id) values ('BNY', 'Bellona/Anua Airport', 'SE');
-insert into airport (airport_id, airport_fullname, country_id) values ('ANW', 'Ainsworth Regional Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('QSZ', 'Yeerqiang Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('NTG', 'Nantong Airport', 'MW');
-insert into airport (airport_id, airport_fullname, country_id) values ('CLA', 'Comilla Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('KUF', 'Kurumoch International Airport', 'GT');
-insert into airport (airport_id, airport_fullname, country_id) values ('KOP', 'Nakhon Phanom Airport', 'MK');
-insert into airport (airport_id, airport_fullname, country_id) values ('EHM', 'Cape Newenham LRRS Airport', 'ZA');
-insert into airport (airport_id, airport_fullname, country_id) values ('BHV', 'Bahawalpur Airport', 'VN');
-insert into airport (airport_id, airport_fullname, country_id) values ('KYS', 'Kayes Dag Dag Airport', 'PE');
-insert into airport (airport_id, airport_fullname, country_id) values ('SVT', 'Savuti Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('ZLX', 'Zalingei Airport', 'NL');
-insert into airport (airport_id, airport_fullname, country_id) values ('YPT', 'Pender Harbour Seaplane Base', 'ES');
-insert into airport (airport_id, airport_fullname, country_id) values ('ADS', 'Addison Airport', 'AL');
-insert into airport (airport_id, airport_fullname, country_id) values ('AKA', 'Ankang Wulipu Airport', 'CA');
-insert into airport (airport_id, airport_fullname, country_id) values ('QHN', 'Taguatinga Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('CSK', 'Cap Skirring Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('CGS', 'College Park Airport', 'ZA');
-insert into airport (airport_id, airport_fullname, country_id) values ('NKB', 'Noonkanbah Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('SEU', 'Seronera Airport', 'FR');
-insert into airport (airport_id, airport_fullname, country_id) values ('DAX', 'Dachuan Airport', 'PT');
-insert into airport (airport_id, airport_fullname, country_id) values ('QPA', 'Padova Airport', 'KE');
-insert into airport (airport_id, airport_fullname, country_id) values ('0', 'Venâncio Aires Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('EFG', 'Efogi Airport', 'HR');
-insert into airport (airport_id, airport_fullname, country_id) values ('MJS', 'Maganja da Costa Airport', 'PT');
-insert into airport (airport_id, airport_fullname, country_id) values ('ATN', 'Namatanai Airport', 'TN');
-insert into airport (airport_id, airport_fullname, country_id) values ('AHS', 'Ahuas Airport', 'KR');
-insert into airport (airport_id, airport_fullname, country_id) values ('AUV', 'Aumo Airport', 'PE');
-insert into airport (airport_id, airport_fullname, country_id) values ('CCT', 'Colonia Catriel Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('OTS', 'Anacortes Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('KMX', 'King Khaled Air Base', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('REA', 'Reao Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('NUG', 'Nuguria Airstrip', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('ESL', 'Elista Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('EAU', 'Chippewa Valley Regional Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('NRI', 'Grand Lake Regional Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('MSS', 'Massena International Richards Field', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('0', 'Mirassol Airport', 'CA');
-insert into airport (airport_id, airport_fullname, country_id) values ('LNQ', 'Loani Airport', 'PY');
-insert into airport (airport_id, airport_fullname, country_id) values ('IGH', 'Ingham Airport', 'NL');
-insert into airport (airport_id, airport_fullname, country_id) values ('AZI', 'Bateen Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('MWP', 'Mountain Airport', 'VN');
-insert into airport (airport_id, airport_fullname, country_id) values ('SFX', 'Macagua Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('GYE', 'José Joaquín de Olmedo International Airport', 'PT');
-insert into airport (airport_id, airport_fullname, country_id) values ('MCI', 'Kansas City International Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('SVJ', 'Svolvær Helle Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('KOH', 'Koolatah Airport', 'PL');
-insert into airport (airport_id, airport_fullname, country_id) values ('GBD', 'Great Bend Municipal Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('UAP', 'Ua Pou Airport', 'SE');
-insert into airport (airport_id, airport_fullname, country_id) values ('RUP', 'Rupsi India Airport', 'PL');
-insert into airport (airport_id, airport_fullname, country_id) values ('OKF', 'Okaukuejo Airport', 'MX');
-insert into airport (airport_id, airport_fullname, country_id) values ('TTN', 'Trenton Mercer Airport', 'VN');
-insert into airport (airport_id, airport_fullname, country_id) values ('OKS', 'Garden County Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('CHQ', 'Chania International Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('TLA', 'Teller Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('HNS', 'Haines Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('RTL', 'Spirit Lake Municipal Airport', 'KZ');
-insert into airport (airport_id, airport_fullname, country_id) values ('GVP', 'Greenvale Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('BGD', 'Hutchinson County Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('MBX', 'Maribor Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('APB', 'Apolo Airport', 'PL');
-insert into airport (airport_id, airport_fullname, country_id) values ('PBR', 'Puerto Barrios Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('KCF', 'Kadanwari Airport', 'IR');
-insert into airport (airport_id, airport_fullname, country_id) values ('XKY', 'Kaya Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('POF', 'Poplar Bluff Municipal Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('MGN', 'Baracoa Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('RGA', 'Hermes Quijada International Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('SXQ', 'Soldotna Airport', 'BR');
-insert into airport (airport_id, airport_fullname, country_id) values ('MNM', 'Menominee Regional Airport', 'FR');
-insert into airport (airport_id, airport_fullname, country_id) values ('HEW', 'Athen Helenikon Airport', 'BR');
-insert into airport (airport_id, airport_fullname, country_id) values ('HME', 'Oued Irara Airport', 'AU');
-insert into airport (airport_id, airport_fullname, country_id) values ('JRS', 'Jerusalem Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('BYQ', 'Bunyu Airport', 'NG');
-insert into airport (airport_id, airport_fullname, country_id) values ('MUC', 'Munich Airport', 'MN');
-insert into airport (airport_id, airport_fullname, country_id) values ('NLU', 'Santa Lucia Air Force Base', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('PDE', 'Pandie Pandie Airport', 'CZ');
-insert into airport (airport_id, airport_fullname, country_id) values ('NOO', 'Naoro Airport', 'BR');
-insert into airport (airport_id, airport_fullname, country_id) values ('NAI', 'Annai Airport', 'CZ');
-insert into airport (airport_id, airport_fullname, country_id) values ('ASJ', 'Amami Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('PPA', 'Perry Lefors Field', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('ELL', 'Ellisras Matimba Airport', 'HR');
-insert into airport (airport_id, airport_fullname, country_id) values ('AKF', 'Kufra Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('WSU', 'Wasu Airport', 'JP');
-insert into airport (airport_id, airport_fullname, country_id) values ('FYV', 'Drake Field', 'LV');
-insert into airport (airport_id, airport_fullname, country_id) values ('SZV', 'Suzhou Guangfu Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('TJH', 'Tajima Airport', 'VN');
-insert into airport (airport_id, airport_fullname, country_id) values ('MUN', 'Maturín Airport', 'BD');
-insert into airport (airport_id, airport_fullname, country_id) values ('YNS', 'Nemiscau Airport', 'PL');
-insert into airport (airport_id, airport_fullname, country_id) values ('CZS', 'Cruzeiro do Sul Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('BYC', 'Yacuiba Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('JDN', 'Jordan Airport', 'PT');
-insert into airport (airport_id, airport_fullname, country_id) values ('KZO', 'Kzyl-Orda Southwest Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('HAU', 'Haugesund Airport', 'UA');
-insert into airport (airport_id, airport_fullname, country_id) values ('SRB', 'Santa Rosa De Yacuma Airport', 'UA');
-insert into airport (airport_id, airport_fullname, country_id) values ('GLS', 'Scholes International At Galveston Airport', 'MX');
-insert into airport (airport_id, airport_fullname, country_id) values ('TJN', 'Takume Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('OAS', 'Sharana Airstrip', 'KZ');
-insert into airport (airport_id, airport_fullname, country_id) values ('ROI', 'Roi Et Airport', 'UY');
-insert into airport (airport_id, airport_fullname, country_id) values ('EGA', 'Engati Airstrip', 'PL');
-insert into airport (airport_id, airport_fullname, country_id) values ('CJM', 'Chumphon Airport', 'TH');
-insert into airport (airport_id, airport_fullname, country_id) values ('POG', 'Port Gentil Airport', 'LV');
-insert into airport (airport_id, airport_fullname, country_id) values ('BVS', 'Breves Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('LIN', 'Milano Linate Airport', 'PL');
-insert into airport (airport_id, airport_fullname, country_id) values ('FEL', 'Fürstenfeldbruck Air Base', 'PL');
-insert into airport (airport_id, airport_fullname, country_id) values ('TYN', 'Taiyuan Wusu Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('BOP', 'Bouar Airport', 'BA');
-insert into airport (airport_id, airport_fullname, country_id) values ('YWJ', 'Déline Airport', 'BI');
-insert into airport (airport_id, airport_fullname, country_id) values ('WFK', 'Northern Aroostook Regional Airport', 'CO');
-insert into airport (airport_id, airport_fullname, country_id) values ('MQJ', 'Moma Airport', 'US');
-insert into airport (airport_id, airport_fullname, country_id) values ('PPD', 'Palmas del Mar Airstrip', 'DE');
-insert into airport (airport_id, airport_fullname, country_id) values ('NNI', 'Namutoni Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('AWN', 'Alton Downs Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('BUC', 'Burketown Airport', 'GT');
-insert into airport (airport_id, airport_fullname, country_id) values ('TGJ', 'Tiga Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('LWV', 'Lawrenceville Vincennes International Airport', 'PL');
-insert into airport (airport_id, airport_fullname, country_id) values ('WUX', 'Sunan Shuofang International Airport', 'VN');
-insert into airport (airport_id, airport_fullname, country_id) values ('OIT', 'Oita Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('ATL', 'Hartsfield Jackson Atlanta International Airport', 'BY');
-insert into airport (airport_id, airport_fullname, country_id) values ('MEG', 'Malanje Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('ESG', 'Dr. Luis Maria Argaña International Airport', 'KZ');
-insert into airport (airport_id, airport_fullname, country_id) values ('TMG', 'Tomanggong Airport', 'FR');
-insert into airport (airport_id, airport_fullname, country_id) values ('SJH', 'San Juan Del César Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('TUP', 'Tupelo Regional Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('PWR', 'Port Walter Seaplane Base', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('DBM', 'Debra Marcos Airport', 'TZ');
-insert into airport (airport_id, airport_fullname, country_id) values ('AJL', 'Lengpui Airport', 'CO');
-insert into airport (airport_id, airport_fullname, country_id) values ('NOZ', 'Spichenkovo Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('KWS', 'Kwailabesi Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('UMY', 'Sumy Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('MRI', 'Merrill Field', 'FR');
-insert into airport (airport_id, airport_fullname, country_id) values ('NMC', 'Normans Cay Airport', 'PS');
-insert into airport (airport_id, airport_fullname, country_id) values ('KFS', 'Kastamonu Airport', 'AM');
-insert into airport (airport_id, airport_fullname, country_id) values ('URD', 'Burg Feuerstein Airport', 'DO');
-insert into airport (airport_id, airport_fullname, country_id) values ('YYY', 'Mont Joli Airport', 'FR');
-insert into airport (airport_id, airport_fullname, country_id) values ('IOK', 'Iokea Airport', 'PT');
-insert into airport (airport_id, airport_fullname, country_id) values ('OOM', 'Cooma Snowy Mountains Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('RBB', 'Borba Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('CYW', 'Captain Rogelio Castillo National Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('SNP', 'St Paul Island Airport', 'CA');
-insert into airport (airport_id, airport_fullname, country_id) values ('LLV', 'Lüliang Airport', 'NZ');
-insert into airport (airport_id, airport_fullname, country_id) values ('MUX', 'Multan International Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('GOC', 'Gora Airstrip', 'CZ');
-insert into airport (airport_id, airport_fullname, country_id) values ('MIU', 'Maiduguri International Airport', 'PL');
-insert into airport (airport_id, airport_fullname, country_id) values ('CUO', 'Carurú Airport', 'MX');
-insert into airport (airport_id, airport_fullname, country_id) values ('UKA', 'Ukunda Airstrip', 'CD');
-insert into airport (airport_id, airport_fullname, country_id) values ('YBE', 'Uranium City Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('BHA', 'Los Perales Airport', 'PE');
-insert into airport (airport_id, airport_fullname, country_id) values ('HSZ', 'Hsinchu Air Base', 'JP');
-insert into airport (airport_id, airport_fullname, country_id) values ('WTK', 'Noatak Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('MGI', 'Matagorda Island Air Force Base', 'VN');
-insert into airport (airport_id, airport_fullname, country_id) values ('MKE', 'General Mitchell International Airport', 'CZ');
-insert into airport (airport_id, airport_fullname, country_id) values ('YRD', 'Dean River Airport', 'CO');
-insert into airport (airport_id, airport_fullname, country_id) values ('CUF', 'Cuneo International Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('JAN', 'Jackson-Medgar Wiley Evers International Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('MAC', 'Macon Downtown Airport', 'PL');
-insert into airport (airport_id, airport_fullname, country_id) values ('AYM', 'Yas Island Seaplane Base', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('IDA', 'Idaho Falls Regional Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('NEC', 'Necochea Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('HIT', 'Haivaro Airport', 'HR');
-insert into airport (airport_id, airport_fullname, country_id) values ('TNC', 'Tin City Long Range Radar Station Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('TKV', 'Tatakoto Airport', 'PT');
-insert into airport (airport_id, airport_fullname, country_id) values ('AMA', 'Rick Husband Amarillo International Airport', 'IR');
-insert into airport (airport_id, airport_fullname, country_id) values ('PBM', 'Johan Adolf Pengel International Airport', 'CA');
-insert into airport (airport_id, airport_fullname, country_id) values ('RVV', 'Raivavae Airport', 'KM');
-insert into airport (airport_id, airport_fullname, country_id) values ('TOW', 'Toledo Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('YXT', 'Northwest Regional Airport Terrace-Kitimat', 'JP');
-insert into airport (airport_id, airport_fullname, country_id) values ('QRC', 'De La Independencia Airport', 'BA');
-insert into airport (airport_id, airport_fullname, country_id) values ('MNZ', 'Manassas Regional Airport/Harry P. Davis Field', 'FR');
-insert into airport (airport_id, airport_fullname, country_id) values ('LWY', 'Lawas Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('TYF', 'Torsby Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('SIX', 'Singleton Airport', 'FR');
-insert into airport (airport_id, airport_fullname, country_id) values ('DGR', 'Dargaville Aerodrome', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('BLQ', 'Bologna Guglielmo Marconi Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('SOD', 'Sorocaba Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('BLD', 'Boulder City Municipal Airport', 'PT');
-insert into airport (airport_id, airport_fullname, country_id) values ('LDM', 'Mason County Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('UTT', 'K. D. Matanzima Airport', 'GW');
-insert into airport (airport_id, airport_fullname, country_id) values ('MMY', 'Miyako Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('NAQ', 'Qaanaaq Airport', 'VN');
-insert into airport (airport_id, airport_fullname, country_id) values ('RNI', 'Corn Island', 'AR');
-insert into airport (airport_id, airport_fullname, country_id) values ('MIB', 'Minot Air Force Base', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('OMH', 'Urmia Airport', 'PA');
-insert into airport (airport_id, airport_fullname, country_id) values ('FSP', 'St Pierre Airport', 'GR');
-insert into airport (airport_id, airport_fullname, country_id) values ('XMA', 'Maramag Airport', 'PL');
-insert into airport (airport_id, airport_fullname, country_id) values ('AGW', 'Agnew Airport', 'ZW');
-insert into airport (airport_id, airport_fullname, country_id) values ('MDZ', 'El Plumerillo Airport', 'AZ');
-insert into airport (airport_id, airport_fullname, country_id) values ('KIJ', 'Niigata Airport', 'US');
-insert into airport (airport_id, airport_fullname, country_id) values ('KJP', 'Kerama Airport', 'NO');
-insert into airport (airport_id, airport_fullname, country_id) values ('YTY', 'Yangzhou Taizhou Airport', 'AU');
-insert into airport (airport_id, airport_fullname, country_id) values ('DLA', 'Douala International Airport', 'NO');
-insert into airport (airport_id, airport_fullname, country_id) values ('FMG', 'Flamingo Airport', 'FI');
-insert into airport (airport_id, airport_fullname, country_id) values ('CFE', 'Clermont-Ferrand Auvergne Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('KAN', 'Mallam Aminu International Airport', 'GR');
-insert into airport (airport_id, airport_fullname, country_id) values ('XDA', 'Dax Seyresse Airport', 'FR');
-insert into airport (airport_id, airport_fullname, country_id) values ('PKV', 'Pskov Airport', 'US');
-insert into airport (airport_id, airport_fullname, country_id) values ('PMD', 'Palmdale Regional/USAF Plant 42 Airport', 'AM');
-insert into airport (airport_id, airport_fullname, country_id) values ('TAG', 'Tagbilaran Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('BMW', 'Bordj Badji Mokhtar Airport', 'FR');
-insert into airport (airport_id, airport_fullname, country_id) values ('PYA', 'Velásquez Airport', 'NO');
-insert into airport (airport_id, airport_fullname, country_id) values ('BCS', 'Southern Seaplane Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('BZP', 'Bizant Airport', 'PT');
-insert into airport (airport_id, airport_fullname, country_id) values ('DLE', 'Dole-Tavaux Airport', 'MY');
-insert into airport (airport_id, airport_fullname, country_id) values ('PPH', 'Perai Tepuy Airport', 'TH');
-insert into airport (airport_id, airport_fullname, country_id) values ('YXT', 'Northwest Regional Airport Terrace-Kitimat', 'UA');
-insert into airport (airport_id, airport_fullname, country_id) values ('LTX', 'Cotopaxi International Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('BBE', 'Big Bell Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('MFW', 'Magaruque Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('DGP', 'Daugavpils Intrenational Airport', 'ZM');
-insert into airport (airport_id, airport_fullname, country_id) values ('RRM', 'Marromeu Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('DBK', 'Dutch Bay SPB', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('LPQ', 'Luang Phabang International Airport', 'JP');
-insert into airport (airport_id, airport_fullname, country_id) values ('WAY', 'Greene County Airport', 'KZ');
-insert into airport (airport_id, airport_fullname, country_id) values ('ULD', 'Prince Mangosuthu Buthelezi Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('SLE', 'Salem Municipal Airport/McNary Field', 'IE');
-insert into airport (airport_id, airport_fullname, country_id) values ('YWM', 'Williams Harbour Airport', 'FR');
-insert into airport (airport_id, airport_fullname, country_id) values ('BXD', 'Bade Airport', 'UZ');
-insert into airport (airport_id, airport_fullname, country_id) values ('ALJ', 'Alexander Bay Airport', 'JP');
-insert into airport (airport_id, airport_fullname, country_id) values ('UAP', 'Ua Pou Airport', 'MX');
-insert into airport (airport_id, airport_fullname, country_id) values ('MVE', 'Montevideo Chippewa County Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('0', 'Laguna Airport', 'AL');
-insert into airport (airport_id, airport_fullname, country_id) values ('MUG', 'Mulege Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('JUV', 'Upernavik Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('IND', 'Indianapolis International Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('MVE', 'Montevideo Chippewa County Airport', 'TH');
-insert into airport (airport_id, airport_fullname, country_id) values ('PGB', 'Pangoa Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('YZD', 'Downsview Airport', 'KZ');
-insert into airport (airport_id, airport_fullname, country_id) values ('PYE', 'Tongareva Airport', 'KR');
-insert into airport (airport_id, airport_fullname, country_id) values ('AUS', 'Austin Bergstrom International Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('ZFW', 'Fairview Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('IGU', 'Cataratas International Airport', 'LU');
-insert into airport (airport_id, airport_fullname, country_id) values ('MYV', 'Yuba County Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('YPJ', 'Aupaluk Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('LSV', 'Nellis Air Force Base', 'AR');
-insert into airport (airport_id, airport_fullname, country_id) values ('SYY', 'Stornoway Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('HTT', 'Huatugou Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('CNI', 'Changhai Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('EKS', 'Shakhtyorsk Airport', 'NG');
-insert into airport (airport_id, airport_fullname, country_id) values ('BOI', 'Boise Air Terminal/Gowen Field', 'FR');
-insert into airport (airport_id, airport_fullname, country_id) values ('PUZ', 'Puerto Cabezas Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('PSE', 'Mercedita Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('ZGL', 'South Galway Airport', 'PT');
-insert into airport (airport_id, airport_fullname, country_id) values ('ZXT', 'Zabrat Airport', 'TH');
-insert into airport (airport_id, airport_fullname, country_id) values ('AEY', 'Akureyri Airport', 'FR');
-insert into airport (airport_id, airport_fullname, country_id) values ('FRR', 'Front Royal Warren County Airport', 'ML');
-insert into airport (airport_id, airport_fullname, country_id) values ('CIE', 'Collie Airport', 'VN');
-insert into airport (airport_id, airport_fullname, country_id) values ('CFI', 'Camfield Airport', 'SY');
-insert into airport (airport_id, airport_fullname, country_id) values ('YMM', 'Fort McMurray Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('MXI', 'Mati National Airport', 'AZ');
-insert into airport (airport_id, airport_fullname, country_id) values ('KIB', 'Ivanof Bay Seaplane Base', 'WS');
-insert into airport (airport_id, airport_fullname, country_id) values ('DRD', 'Dorunda Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('MRR', 'Jose Maria Velasco Ibarra Airport', 'JP');
-insert into airport (airport_id, airport_fullname, country_id) values ('VRA', 'Juan Gualberto Gomez International Airport', 'ZA');
-insert into airport (airport_id, airport_fullname, country_id) values ('RGK', 'Gorno-Altaysk Airport', 'BR');
-insert into airport (airport_id, airport_fullname, country_id) values ('ISL', 'Atatürk International Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('MYU', 'Mekoryuk Airport', 'IR');
-insert into airport (airport_id, airport_fullname, country_id) values ('RBS', 'Orbost Airport', 'HN');
-insert into airport (airport_id, airport_fullname, country_id) values ('HJJ', 'Zhijiang Airport', 'US');
-insert into airport (airport_id, airport_fullname, country_id) values ('LSE', 'La Crosse Municipal Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('PKH', 'Porto Cheli Airport', 'GR');
-insert into airport (airport_id, airport_fullname, country_id) values ('IPI', 'San Luis Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('MUF', 'Muting Airport', 'BY');
-insert into airport (airport_id, airport_fullname, country_id) values ('KCQ', 'Chignik Lake Airport', 'FR');
-insert into airport (airport_id, airport_fullname, country_id) values ('ACI', 'Alderney Airport', 'BG');
-insert into airport (airport_id, airport_fullname, country_id) values ('SIL', 'Sila Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('MHE', 'Mitchell Municipal Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('ULP', 'Quilpie Airport', 'TH');
-insert into airport (airport_id, airport_fullname, country_id) values ('RVN', 'Rovaniemi Airport', 'PT');
-insert into airport (airport_id, airport_fullname, country_id) values ('PNI', 'Pohnpei International Airport', 'PT');
-insert into airport (airport_id, airport_fullname, country_id) values ('KVR', 'Kavalerovo Airport', 'PT');
-insert into airport (airport_id, airport_fullname, country_id) values ('ADB', 'Adnan Menderes International Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('PKD', 'Park Rapids Municipal Konshok Field', 'JP');
-insert into airport (airport_id, airport_fullname, country_id) values ('MMQ', 'Mbala Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('MTD', 'Mount Sanford Station Airport', 'PL');
-insert into airport (airport_id, airport_fullname, country_id) values ('VJQ', 'Gurue Airport', 'FR');
-insert into airport (airport_id, airport_fullname, country_id) values ('BPD', 'Bapi Airstrip', 'KP');
-insert into airport (airport_id, airport_fullname, country_id) values ('MBT', 'Moises R. Espinosa Airport', 'UA');
-insert into airport (airport_id, airport_fullname, country_id) values ('YRA', 'Rae Lakes Airport', 'PG');
-insert into airport (airport_id, airport_fullname, country_id) values ('SFB', 'Orlando Sanford International Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('RBE', 'Ratanakiri Airport', 'BR');
-insert into airport (airport_id, airport_fullname, country_id) values ('KOF', 'Komatipoort Airport', 'CA');
-insert into airport (airport_id, airport_fullname, country_id) values ('QGC', 'Lençóis Paulista Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('MQK', 'San Matías Airport', 'PT');
-insert into airport (airport_id, airport_fullname, country_id) values ('YHH', 'Campbell River Seaplane Base', 'AM');
-insert into airport (airport_id, airport_fullname, country_id) values ('AXM', 'El Eden Airport', 'MX');
-insert into airport (airport_id, airport_fullname, country_id) values ('OUK', 'Outer Skerries Airport', 'SE');
-insert into airport (airport_id, airport_fullname, country_id) values ('XSI', 'South Indian Lake Airport', 'US');
-insert into airport (airport_id, airport_fullname, country_id) values ('QDJ', 'Tsletsi Airport', 'FR');
-insert into airport (airport_id, airport_fullname, country_id) values ('PHM', 'Böblingen Flugfeld', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('RUU', 'Ruti Airport', 'TN');
-insert into airport (airport_id, airport_fullname, country_id) values ('ANL', 'Andulo Airport', 'PT');
-insert into airport (airport_id, airport_fullname, country_id) values ('BRX', 'Maria Montez International Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('LRD', 'Laredo International Airport', 'HN');
-insert into airport (airport_id, airport_fullname, country_id) values ('KWJ', 'Gwangju Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('ZFU', 'Unifly Heliport', 'PY');
-insert into airport (airport_id, airport_fullname, country_id) values ('AIR', 'Aripuanã Airport', 'ES');
-insert into airport (airport_id, airport_fullname, country_id) values ('YBO', 'Bob Quinn Lake Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('MEX', 'Licenciado Benito Juarez International Airport', 'MX');
-insert into airport (airport_id, airport_fullname, country_id) values ('VNT', 'Ventspils International Airport', 'YE');
-insert into airport (airport_id, airport_fullname, country_id) values ('KNR', 'Jam Airport', 'UA');
-insert into airport (airport_id, airport_fullname, country_id) values ('PHF', 'Newport News Williamsburg International Airport', 'MK');
-insert into airport (airport_id, airport_fullname, country_id) values ('CAB', 'Cabinda Airport', 'FI');
-insert into airport (airport_id, airport_fullname, country_id) values ('YFB', 'Iqaluit Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('SZZ', 'Szczecin-Goleniów "Solidarność" Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('CTQ', 'Santa Vitória do Palmar Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('MAX', 'Ouro Sogui Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('NTG', 'Nantong Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('RAP', 'Rapid City Regional Airport', 'MX');
-insert into airport (airport_id, airport_fullname, country_id) values ('DRV', 'Dharavandhoo Airport', 'SE');
-insert into airport (airport_id, airport_fullname, country_id) values ('SOL', 'Solomon State Field', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('PRX', 'Cox Field', 'BR');
-insert into airport (airport_id, airport_fullname, country_id) values ('MGT', 'Milingimbi Airport', 'WS');
-insert into airport (airport_id, airport_fullname, country_id) values ('MXR', 'Myrhorod Air Base', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('ADS', 'Addison Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('RAV', 'Cravo Norte Airport', 'BG');
-insert into airport (airport_id, airport_fullname, country_id) values ('WMT', 'Zunyi Maotai Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('KHW', 'Khwai River Lodge Airport', 'PE');
-insert into airport (airport_id, airport_fullname, country_id) values ('RCQ', 'Reconquista Airport', 'SE');
-insert into airport (airport_id, airport_fullname, country_id) values ('XBE', 'Bearskin Lake Airport', 'NG');
-insert into airport (airport_id, airport_fullname, country_id) values ('KRA', 'Kerang Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('UYL', 'Nyala Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('SXQ', 'Soldotna Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('TAB', 'Tobago-Crown Point Airport', 'VN');
-insert into airport (airport_id, airport_fullname, country_id) values ('ZSA', 'San Salvador Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('WAO', 'Wabo Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('ALY', 'El Nouzha Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('WVN', 'Wilhelmshaven-Mariensiel Airport', 'JP');
-insert into airport (airport_id, airport_fullname, country_id) values ('EJA', 'Yariguíes Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('TIO', 'Tilin Airport', 'XK');
-insert into airport (airport_id, airport_fullname, country_id) values ('BOM', 'Chhatrapati Shivaji International Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('KCD', 'Kamur Airport', 'TN');
-insert into airport (airport_id, airport_fullname, country_id) values ('YYY', 'Mont Joli Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('AXA', 'Clayton J Lloyd International Airport', 'PL');
-insert into airport (airport_id, airport_fullname, country_id) values ('HND', 'Tokyo Haneda International Airport', 'QA');
-insert into airport (airport_id, airport_fullname, country_id) values ('DNV', 'Vermilion Regional Airport', 'GR');
-insert into airport (airport_id, airport_fullname, country_id) values ('FDO', 'San Fernando Airport', 'PE');
-insert into airport (airport_id, airport_fullname, country_id) values ('CXM', 'Camaxilo Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('LCB', 'Pontes e Lacerda Airport', 'BR');
-insert into airport (airport_id, airport_fullname, country_id) values ('ZNZ', 'Abeid Amani Karume International Airport', 'TZ');
-insert into airport (airport_id, airport_fullname, country_id) values ('ZZV', 'Zanesville Municipal Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('EPS', 'Samana El Portillo Airport', 'FI');
-insert into airport (airport_id, airport_fullname, country_id) values ('XJD', 'Al Udeid Air Base', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('KDY', 'Typliy Klyuch Airport', 'PT');
-insert into airport (airport_id, airport_fullname, country_id) values ('URR', 'Urrao Airport', 'CO');
-insert into airport (airport_id, airport_fullname, country_id) values ('YKZ', 'Buttonville Municipal Airport', 'MX');
-insert into airport (airport_id, airport_fullname, country_id) values ('AYZ', 'Zahn''s Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('TKN', 'Tokunoshima Airport', 'BR');
-insert into airport (airport_id, airport_fullname, country_id) values ('GIC', 'Boigu Airport', 'FI');
-insert into airport (airport_id, airport_fullname, country_id) values ('ABZ', 'Aberdeen Dyce Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('MXL', 'General Rodolfo Sánchez Taboada International Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('JBK', 'Berkley Municipal Heliport', 'PT');
-insert into airport (airport_id, airport_fullname, country_id) values ('YHD', 'Dryden Regional Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('OHR', 'Wyk auf Föhr Airport', 'IT');
-insert into airport (airport_id, airport_fullname, country_id) values ('HNI', 'Heiweni Airport', 'BF');
-insert into airport (airport_id, airport_fullname, country_id) values ('PNN', 'Princeton Municipal Airport', 'TZ');
-insert into airport (airport_id, airport_fullname, country_id) values ('YPD', 'Parry Sound Area Municipal Airport', 'PL');
-insert into airport (airport_id, airport_fullname, country_id) values ('OME', 'Nome Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('DEB', 'Debrecen International Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('CBY', 'Canobie Airport', 'SI');
-insert into airport (airport_id, airport_fullname, country_id) values ('MCJ', 'Jorge Isaac Airport', 'ZA');
-insert into airport (airport_id, airport_fullname, country_id) values ('UGC', 'Urgench Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('BKR', 'Bokoro Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('JED', 'King Abdulaziz International Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('LUT', 'New Laura Airport', 'FR');
-insert into airport (airport_id, airport_fullname, country_id) values ('KTU', 'Kota Airport', 'SE');
-insert into airport (airport_id, airport_fullname, country_id) values ('SCU', 'Antonio Maceo International Airport', 'CA');
-insert into airport (airport_id, airport_fullname, country_id) values ('JWA', 'Jwaneng Airport', 'US');
-insert into airport (airport_id, airport_fullname, country_id) values ('BZM', 'Bemolanga Airport', 'MX');
-insert into airport (airport_id, airport_fullname, country_id) values ('SLH', 'Sola Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('YYE', 'Fort Nelson Airport', 'HN');
-insert into airport (airport_id, airport_fullname, country_id) values ('BUX', 'Bunia Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('QRC', 'De La Independencia Airport', 'NO');
-insert into airport (airport_id, airport_fullname, country_id) values ('DRK', 'Drake Bay Airport', 'GH');
-insert into airport (airport_id, airport_fullname, country_id) values ('RJB', 'Rajbiraj Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('FMU', 'Florence Municipal Airport', 'ZA');
-insert into airport (airport_id, airport_fullname, country_id) values ('GRL', 'Garasa Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('ISO', 'Kinston Regional Jetport At Stallings Field', 'AR');
-insert into airport (airport_id, airport_fullname, country_id) values ('LLV', 'Lüliang Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('BUY', 'Bunbury Airport', 'VE');
-insert into airport (airport_id, airport_fullname, country_id) values ('CKC', 'Cherkasy International Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('AUF', 'Auxerre-Branches Airport', 'PL');
-insert into airport (airport_id, airport_fullname, country_id) values ('OIM', 'Oshima Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('ICC', 'Andrés Miguel Salazar Marcano Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('LXN', 'Jim Kelly Field', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('ARC', 'Arctic Village Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('NHA', 'Nha Trang Air Base', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('LOC', 'Lock Airport', 'RS');
-insert into airport (airport_id, airport_fullname, country_id) values ('AIV', 'George Downer Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('CJJ', 'Cheongju International Airport/Cheongju Air Base (K-59/G-513)', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('LWH', 'Lawn Hill Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('CLG', 'Coalinga Airport', 'PL');
-insert into airport (airport_id, airport_fullname, country_id) values ('RMU', 'Región de Murcia International Airport', 'FR');
-insert into airport (airport_id, airport_fullname, country_id) values ('VBY', 'Visby Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('PBM', 'Johan Adolf Pengel International Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('PKW', 'Selebi Phikwe Airport', 'TN');
-insert into airport (airport_id, airport_fullname, country_id) values ('QBC', 'Bella Coola Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('SPC', 'La Palma Airport', 'GT');
-insert into airport (airport_id, airport_fullname, country_id) values ('MFQ', 'Maradi Airport', 'PL');
-insert into airport (airport_id, airport_fullname, country_id) values ('KPY', 'Port Bailey Seaplane Base', 'PL');
-insert into airport (airport_id, airport_fullname, country_id) values ('LEK', 'Tata Airport', 'IE');
-insert into airport (airport_id, airport_fullname, country_id) values ('YAL', 'Alert Bay Airport', 'JP');
-insert into airport (airport_id, airport_fullname, country_id) values ('KCS', 'Kings Creek Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('SGN', 'Tan Son Nhat International Airport', 'MN');
-insert into airport (airport_id, airport_fullname, country_id) values ('KTE', 'Kerteh Airport', 'DO');
-insert into airport (airport_id, airport_fullname, country_id) values ('HTI', 'Hamilton Island Airport', 'MT');
-insert into airport (airport_id, airport_fullname, country_id) values ('OLJ', 'North West Santo Airport', 'PL');
-insert into airport (airport_id, airport_fullname, country_id) values ('BID', 'Block Island State Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('RDZ', 'Rodez-Marcillac Airport', 'SJ');
-insert into airport (airport_id, airport_fullname, country_id) values ('WAV', 'Wave Hill Airport', 'PT');
-insert into airport (airport_id, airport_fullname, country_id) values ('MQM', 'Mardin Airport', 'BG');
-insert into airport (airport_id, airport_fullname, country_id) values ('USL', 'Useless Loop Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('PRH', 'Phrae Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('ESR', 'Ricardo García Posada Airport', 'PT');
-insert into airport (airport_id, airport_fullname, country_id) values ('CAB', 'Cabinda Airport', 'PL');
-insert into airport (airport_id, airport_fullname, country_id) values ('GCN', 'Grand Canyon National Park Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('CAK', 'Akron Canton Regional Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('UBB', 'Mabuiag Island Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('GBK', 'Gbangbatok Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('NAL', 'Nalchik Airport', 'RS');
-insert into airport (airport_id, airport_fullname, country_id) values ('STK', 'Sterling Municipal Airport', 'JP');
-insert into airport (airport_id, airport_fullname, country_id) values ('BYM', 'Carlos Manuel de Cespedes Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('SUY', 'Suntar Airport', 'JP');
-insert into airport (airport_id, airport_fullname, country_id) values ('CXR', 'Cam Ranh Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('NLK', 'Norfolk Island International Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('AMS', 'Amsterdam Airport Schiphol', 'KZ');
-insert into airport (airport_id, airport_fullname, country_id) values ('XTO', 'Taroom Airport', 'GB');
-insert into airport (airport_id, airport_fullname, country_id) values ('WPB', 'Port Bergé Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('ALA', 'Almaty Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('LMD', 'Los Menucos Airport', 'SI');
-insert into airport (airport_id, airport_fullname, country_id) values ('SFL', 'São Filipe Airport', 'BR');
-insert into airport (airport_id, airport_fullname, country_id) values ('BKQ', 'Blackall Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('AZD', 'Shahid Sadooghi Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('VLS', 'Valesdir Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('PQC', 'Phu Quoc International Airport', 'CO');
-insert into airport (airport_id, airport_fullname, country_id) values ('JUI', 'Juist Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('EIE', 'Yeniseysk Airport', 'PT');
-insert into airport (airport_id, airport_fullname, country_id) values ('OTI', 'Pitu Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('MQD', 'Maquinchao Airport', 'AZ');
-insert into airport (airport_id, airport_fullname, country_id) values ('MQS', 'Mustique Airport', 'KM');
-insert into airport (airport_id, airport_fullname, country_id) values ('KPV', 'Perryville Airport', 'SE');
-insert into airport (airport_id, airport_fullname, country_id) values ('DCF', 'Canefield Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('GZM', 'Xewkija Heliport', 'NL');
-insert into airport (airport_id, airport_fullname, country_id) values ('BLB', 'Panama Pacific International Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('GFF', 'Griffith Airport', 'NG');
-insert into airport (airport_id, airport_fullname, country_id) values ('ANC', 'Ted Stevens Anchorage International Airport', 'PL');
-insert into airport (airport_id, airport_fullname, country_id) values ('CUY', 'Cue Airport', 'UA');
-insert into airport (airport_id, airport_fullname, country_id) values ('FBS', 'Friday Harbor Seaplane Base', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('YCG', 'Castlegar/West Kootenay Regional Airport', 'TH');
-insert into airport (airport_id, airport_fullname, country_id) values ('SIV', 'Sullivan County Airport', 'PL');
-insert into airport (airport_id, airport_fullname, country_id) values ('CVT', 'Coventry Airport', 'CR');
-insert into airport (airport_id, airport_fullname, country_id) values ('BFE', 'Bielefeld Airport', 'MG');
-insert into airport (airport_id, airport_fullname, country_id) values ('LAS', 'McCarran International Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('ABQ', 'Albuquerque International Sunport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('GHK', 'Gush Katif Airport', 'CO');
-insert into airport (airport_id, airport_fullname, country_id) values ('SGW', 'Saginaw Seaplane Base', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('LHP', 'Lehu Airport', 'UG');
-insert into airport (airport_id, airport_fullname, country_id) values ('UVA', 'Garner Field', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('CLC', 'Clear Lake Metroport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('ESU', 'Mogador Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('XME', 'Maubeuge-Élesmes Airport', 'RS');
-insert into airport (airport_id, airport_fullname, country_id) values ('UCZ', 'Uchiza Airport', 'US');
-insert into airport (airport_id, airport_fullname, country_id) values ('0', 'Monte Santo de Minas Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('LKN', 'Leknes Airport', 'CU');
-insert into airport (airport_id, airport_fullname, country_id) values ('RET', 'Røst Airport', 'TN');
-insert into airport (airport_id, airport_fullname, country_id) values ('BHM', 'Birmingham-Shuttlesworth International Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('JTI', 'Jataí Airport', 'AF');
-insert into airport (airport_id, airport_fullname, country_id) values ('OGE', 'Ogeranang Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('XLU', 'Leo Airport', 'GW');
-insert into airport (airport_id, airport_fullname, country_id) values ('JUN', 'Jundah Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('HCA', 'Big Spring Mc Mahon-Wrinkle Airport', 'UG');
-insert into airport (airport_id, airport_fullname, country_id) values ('XEN', 'Xingcheng Air Base', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('GOJ', 'Nizhny Novgorod Strigino International Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('FBD', 'Fayzabad Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('TCP', 'Taba International Airport', 'VE');
-insert into airport (airport_id, airport_fullname, country_id) values ('TUP', 'Tupelo Regional Airport', 'CI');
-insert into airport (airport_id, airport_fullname, country_id) values ('EYR', 'Yerington Municipal Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('IND', 'Indianapolis International Airport', 'US');
-insert into airport (airport_id, airport_fullname, country_id) values ('PNS', 'Pensacola Regional Airport', 'VN');
-insert into airport (airport_id, airport_fullname, country_id) values ('BDG', 'Blanding Municipal Airport', 'PA');
-insert into airport (airport_id, airport_fullname, country_id) values ('XIQ', 'Ilimanaq Heliport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('YKN', 'Chan Gurney Municipal Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('FYU', 'Fort Yukon Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('HER', 'Heraklion International Nikos Kazantzakis Airport', 'US');
-insert into airport (airport_id, airport_fullname, country_id) values ('AHT', 'Amchitka Army Airfield', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('SJF', 'Cruz Bay Seaplane Base', 'CM');
-insert into airport (airport_id, airport_fullname, country_id) values ('TLH', 'Tallahassee Regional Airport', 'MU');
-insert into airport (airport_id, airport_fullname, country_id) values ('SAB', 'Juancho E. Yrausquin Airport', 'IR');
-insert into airport (airport_id, airport_fullname, country_id) values ('BBR', 'Baillif Airport', 'US');
-insert into airport (airport_id, airport_fullname, country_id) values ('GGD', 'Gregory Downs Airport', 'AF');
-insert into airport (airport_id, airport_fullname, country_id) values ('KKY', 'Kilkenny Airport', 'MG');
-insert into airport (airport_id, airport_fullname, country_id) values ('JAM', 'Bezmer Air Base', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('FAM', 'Farmington Regional Airport', 'FR');
-insert into airport (airport_id, airport_fullname, country_id) values ('LCV', 'Lucca-Tassignano Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('ACZ', 'Zabol Airport', 'US');
-insert into airport (airport_id, airport_fullname, country_id) values ('AYU', 'Aiyura Airport', 'PL');
-insert into airport (airport_id, airport_fullname, country_id) values ('ECR', 'El Charco Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('LPJ', 'Armando Schwarck Airport', 'FI');
-insert into airport (airport_id, airport_fullname, country_id) values ('FWL', 'Farewell Airport', 'MK');
-insert into airport (airport_id, airport_fullname, country_id) values ('DAN', 'Danville Regional Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('NAU', 'Napuka Island Airport', 'GT');
-insert into airport (airport_id, airport_fullname, country_id) values ('HKN', 'Kimbe Airport', 'SE');
-insert into airport (airport_id, airport_fullname, country_id) values ('ABT', 'Al Baha Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('SJH', 'San Juan Del César Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('WTD', 'West End Airport', 'PS');
-insert into airport (airport_id, airport_fullname, country_id) values ('KUX', 'Kuyol Airport', 'RS');
-insert into airport (airport_id, airport_fullname, country_id) values ('DNV', 'Vermilion Regional Airport', 'MT');
-insert into airport (airport_id, airport_fullname, country_id) values ('RMB', 'Buraimi Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('YEI', 'Bursa Yenişehir Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('LBF', 'North Platte Regional Airport Lee Bird Field', 'GB');
-insert into airport (airport_id, airport_fullname, country_id) values ('TZC', 'Tuscola Area Airport', 'GR');
-insert into airport (airport_id, airport_fullname, country_id) values ('MNK', 'Maiana Airport', 'IL');
-insert into airport (airport_id, airport_fullname, country_id) values ('MNQ', 'Monto Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('GBM', 'Garbaharey Airport', 'MN');
-insert into airport (airport_id, airport_fullname, country_id) values ('IUS', 'Inus Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('PMW', 'Brigadeiro Lysias Rodrigues Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('0', 'Veranópolis Airport', 'UA');
-insert into airport (airport_id, airport_fullname, country_id) values ('SYA', 'Eareckson Air Station', 'CO');
-insert into airport (airport_id, airport_fullname, country_id) values ('COM', 'Coleman Municipal Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('OAM', 'Oamaru Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('TWU', 'Tawau Airport', 'BA');
-insert into airport (airport_id, airport_fullname, country_id) values ('CRV', 'Crotone Airport', 'PT');
-insert into airport (airport_id, airport_fullname, country_id) values ('JTC', 'Bauru - Arealva Airport', 'GR');
-insert into airport (airport_id, airport_fullname, country_id) values ('ZRM', 'Sarmi Airport', 'BG');
-insert into airport (airport_id, airport_fullname, country_id) values ('JGD', 'Jiagedaqi Airport', 'SO');
-insert into airport (airport_id, airport_fullname, country_id) values ('HBT', 'Hambantota Seaplane Base', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('SPB', 'Charlotte Amalie Harbor Seaplane Base', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('BHE', 'Woodbourne Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('LAG', 'La Guaira Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('ACO', 'Ascona Airport', 'PE');
-insert into airport (airport_id, airport_fullname, country_id) values ('UKS', 'Belbek Airport', 'JP');
-insert into airport (airport_id, airport_fullname, country_id) values ('MPL', 'Montpellier-Méditerranée Airport', 'BR');
-insert into airport (airport_id, airport_fullname, country_id) values ('ECG', 'Elizabeth City Regional Airport & Coast Guard Air Station', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('0', 'Garça Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('DHN', 'Dothan Regional Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('KGY', 'Kingaroy Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('UCK', 'Lutsk Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('WUZ', 'Wuzhou Changzhoudao Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('ECP', 'Northwest Florida Beaches International Airport', 'NA');
-insert into airport (airport_id, airport_fullname, country_id) values ('DRE', 'Drummond Island Airport', 'HU');
-insert into airport (airport_id, airport_fullname, country_id) values ('NYR', 'Nyurba Airport', 'MX');
-insert into airport (airport_id, airport_fullname, country_id) values ('DYM', 'Diamantina Lakes Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('YPG', 'Southport Airport', 'SE');
-insert into airport (airport_id, airport_fullname, country_id) values ('MTQ', 'Mitchell Airport', 'ES');
-insert into airport (airport_id, airport_fullname, country_id) values ('HAR', 'Capital City Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('OHD', 'Ohrid St. Paul the Apostle Airport', 'FI');
-insert into airport (airport_id, airport_fullname, country_id) values ('YXN', 'Whale Cove Airport', 'PK');
-insert into airport (airport_id, airport_fullname, country_id) values ('WMI', 'Modlin Airport', 'EE');
-insert into airport (airport_id, airport_fullname, country_id) values ('ALT', 'Alenquer Airport', 'RW');
-insert into airport (airport_id, airport_fullname, country_id) values ('AXR', 'Arutua Airport', 'US');
-insert into airport (airport_id, airport_fullname, country_id) values ('MGJ', 'Orange County Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('EYS', 'Eliye Springs Airport', 'HR');
-insert into airport (airport_id, airport_fullname, country_id) values ('SOZ', 'Solenzara (BA 126) Air Base', 'JP');
-insert into airport (airport_id, airport_fullname, country_id) values ('WWD', 'Cape May County Airport', 'IL');
-insert into airport (airport_id, airport_fullname, country_id) values ('BXW', 'Bawean Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('WUZ', 'Wuzhou Changzhoudao Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('LYR', 'Svalbard Airport, Longyear', 'PL');
-insert into airport (airport_id, airport_fullname, country_id) values ('PUT', 'Sri Sathya Sai Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('TXG', 'Taichung Airport', 'ZA');
-insert into airport (airport_id, airport_fullname, country_id) values ('GRQ', 'Eelde Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('NOD', 'Norden-Norddeich Airport', 'FI');
-insert into airport (airport_id, airport_fullname, country_id) values ('WSR', 'Wasior Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('EYS', 'Eliye Springs Airport', 'UA');
-insert into airport (airport_id, airport_fullname, country_id) values ('PVI', 'Paranavaí Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('PAD', 'Paderborn Lippstadt Airport', 'UZ');
-insert into airport (airport_id, airport_fullname, country_id) values ('NKB', 'Noonkanbah Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('LHA', 'Lahr Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('GIC', 'Boigu Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('HAR', 'Capital City Airport', 'PY');
-insert into airport (airport_id, airport_fullname, country_id) values ('MNA', 'Melangguane Airport', 'UA');
-insert into airport (airport_id, airport_fullname, country_id) values ('SYF', 'Silva Bay Seaplane Base', 'FJ');
-insert into airport (airport_id, airport_fullname, country_id) values ('ORG', 'Zorg en Hoop Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('CWT', 'Cowra Airport', 'CA');
-insert into airport (airport_id, airport_fullname, country_id) values ('RDO', 'Radom Airport', 'CZ');
-insert into airport (airport_id, airport_fullname, country_id) values ('FYM', 'Fayetteville Municipal Airport', 'AR');
-insert into airport (airport_id, airport_fullname, country_id) values ('HTM', 'Khatgal Airport', 'CO');
-insert into airport (airport_id, airport_fullname, country_id) values ('NOC', 'Ireland West Knock Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('ISL', 'Atatürk International Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('VPY', 'Chimoio Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('GLU', 'Gelephu Airport', 'SE');
-insert into airport (airport_id, airport_fullname, country_id) values ('ZJN', 'Swan River Airport', 'AL');
-insert into airport (airport_id, airport_fullname, country_id) values ('RWI', 'Rocky Mount Wilson Regional Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('INT', 'Smith Reynolds Airport', 'UA');
-insert into airport (airport_id, airport_fullname, country_id) values ('RTM', 'Rotterdam The Hague Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('PLR', 'St Clair County Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('VLI', 'Bauerfield International Airport', 'US');
-insert into airport (airport_id, airport_fullname, country_id) values ('MWZ', 'Mwanza Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('FRJ', 'Fréjus Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('MCF', 'Mac Dill Air Force Base', 'BR');
-insert into airport (airport_id, airport_fullname, country_id) values ('OMY', 'Preah Vinhear Airport', 'BZ');
-insert into airport (airport_id, airport_fullname, country_id) values ('RLK', 'Bayannur Tianjitai Airport', 'TH');
-insert into airport (airport_id, airport_fullname, country_id) values ('AOJ', 'Aomori Airport', 'FR');
-insert into airport (airport_id, airport_fullname, country_id) values ('FGD', 'Fderik Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('HLP', 'Halim Perdanakusuma International Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('CLO', 'Alfonso Bonilla Aragon International Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('AGI', 'Wageningen Airstrip', 'VN');
-insert into airport (airport_id, airport_fullname, country_id) values ('UIP', 'Quimper-Cornouaille Airport', 'ZM');
-insert into airport (airport_id, airport_fullname, country_id) values ('RPX', 'Roundup Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('SEV', 'Sievierodonetsk Airport', 'UZ');
-insert into airport (airport_id, airport_fullname, country_id) values ('KGS', 'Kos Airport', 'BO');
-insert into airport (airport_id, airport_fullname, country_id) values ('IRO', 'Birao Airport', 'MN');
-insert into airport (airport_id, airport_fullname, country_id) values ('KAM', 'Kamaran Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('CMT', 'New Cametá Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('AFR', 'Afore Airstrip', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('HLH', 'Ulanhot Airport', 'PE');
-insert into airport (airport_id, airport_fullname, country_id) values ('CMC', 'Camocim Airport', 'MA');
-insert into airport (airport_id, airport_fullname, country_id) values ('PKA', 'Napaskiak Airport', 'NG');
-insert into airport (airport_id, airport_fullname, country_id) values ('EVX', 'Évreux-Fauville (BA 105) Air Base', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('ESI', 'Espinosa Airport', 'BR');
-insert into airport (airport_id, airport_fullname, country_id) values ('JJM', 'Mulika Lodge Airport', 'MX');
-insert into airport (airport_id, airport_fullname, country_id) values ('KTL', 'Kitale Airport', 'ES');
-insert into airport (airport_id, airport_fullname, country_id) values ('RYO', '28 de Noviembre Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('YTH', 'Thompson Airport', 'BD');
-insert into airport (airport_id, airport_fullname, country_id) values ('NTB', 'Notodden Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('HEA', 'Herat Airport', 'PL');
-insert into airport (airport_id, airport_fullname, country_id) values ('NHK', 'Patuxent River Naval Air Station (Trapnell Field)', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('MAP', 'Mamai Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('BSA', 'Bosaso Airport', 'US');
-insert into airport (airport_id, airport_fullname, country_id) values ('KJI', 'Kanas Airport', 'KM');
-insert into airport (airport_id, airport_fullname, country_id) values ('MFT', 'Machu Pichu Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('SRM', 'Sandringham Airport', 'BR');
-insert into airport (airport_id, airport_fullname, country_id) values ('EEN', 'Dillant Hopkins Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('AYN', 'Anyang Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('ZOF', 'Ocean Falls Seaplane Base', 'DO');
-insert into airport (airport_id, airport_fullname, country_id) values ('VUP', 'Alfonso López Pumarejo Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('HCM', 'Eil Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('YYM', 'Cowley Airport', 'AF');
-insert into airport (airport_id, airport_fullname, country_id) values ('LAZ', 'Bom Jesus da Lapa Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('CHH', 'Chachapoyas Airport', 'PL');
-insert into airport (airport_id, airport_fullname, country_id) values ('SWS', 'Swansea Airport', 'BD');
-insert into airport (airport_id, airport_fullname, country_id) values ('PIA', 'General Wayne A. Downing Peoria International Airport', 'PT');
-insert into airport (airport_id, airport_fullname, country_id) values ('TUD', 'Tambacounda Airport', 'VE');
-insert into airport (airport_id, airport_fullname, country_id) values ('JEG', 'Aasiaat Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('JPA', 'Presidente Castro Pinto International Airport', 'MA');
-insert into airport (airport_id, airport_fullname, country_id) values ('BHX', 'Birmingham International Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('GFF', 'Griffith Airport', 'SE');
-insert into airport (airport_id, airport_fullname, country_id) values ('TRQ', 'Tarauacá Airport', 'RS');
-insert into airport (airport_id, airport_fullname, country_id) values ('GOM', 'Goma International Airport', 'UA');
-insert into airport (airport_id, airport_fullname, country_id) values ('DCY', 'Daocheng Yading Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('BOW', 'Bartow Municipal Airport', 'VN');
-insert into airport (airport_id, airport_fullname, country_id) values ('SNR', 'Saint-Nazaire-Montoir Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('AYT', 'Antalya International Airport', 'PL');
-insert into airport (airport_id, airport_fullname, country_id) values ('GVE', 'Gordonsville Municipal Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('BIM', 'South Bimini Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('RUN', 'Roland Garros Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('YBE', 'Uranium City Airport', 'BR');
-insert into airport (airport_id, airport_fullname, country_id) values ('KOE', 'El Tari Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('EWN', 'Coastal Carolina Regional Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('CED', 'Ceduna Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('SCS', 'Scatsta Airport', 'UA');
-insert into airport (airport_id, airport_fullname, country_id) values ('ACR', 'Araracuara Airport', 'PT');
-insert into airport (airport_id, airport_fullname, country_id) values ('YWM', 'Williams Harbour Airport', 'SE');
-insert into airport (airport_id, airport_fullname, country_id) values ('NDN', 'Nadunumu Airport', 'FI');
-insert into airport (airport_id, airport_fullname, country_id) values ('BRS', 'Bristol Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('POD', 'Podor Airport', 'JP');
-insert into airport (airport_id, airport_fullname, country_id) values ('GFR', 'Granville Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('LDU', 'Lahad Datu Airport', 'PT');
-insert into airport (airport_id, airport_fullname, country_id) values ('WPM', 'Wipim Airport', 'NO');
-insert into airport (airport_id, airport_fullname, country_id) values ('AHH', 'Amery Municipal Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('KGI', 'Kalgoorlie Boulder Airport', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('MIG', 'Mianyang Airport', 'CA');
-insert into airport (airport_id, airport_fullname, country_id) values ('CME', 'Ciudad del Carmen International Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('PQC', 'Phu Quoc International Airport', 'PT');
-insert into airport (airport_id, airport_fullname, country_id) values ('JSU', 'Maniitsoq Airport', 'MG');
-insert into airport (airport_id, airport_fullname, country_id) values ('BID', 'Block Island State Airport', 'NG');
-insert into airport (airport_id, airport_fullname, country_id) values ('TBF', 'Tabiteuea North Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('SKT', 'Sialkot Airport', 'US');
-insert into airport (airport_id, airport_fullname, country_id) values ('UGB', 'Ugashik Bay Airport', 'FR');
-insert into airport (airport_id, airport_fullname, country_id) values ('FSU', 'Fort Sumner Municipal Airport', 'AR');
-insert into airport (airport_id, airport_fullname, country_id) values ('SQI', 'Whiteside County Airport-Joseph H Bittorf Field', 'CZ');
-insert into airport (airport_id, airport_fullname, country_id) values ('BYA', 'Boundary Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('LCM', 'La Cumbre Airport', 'JP');
-insert into airport (airport_id, airport_fullname, country_id) values ('OTH', 'Southwest Oregon Regional Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('BVB', 'Atlas Brasil Cantanhede Airport', 'TH');
-insert into airport (airport_id, airport_fullname, country_id) values ('YCA', 'Courtenay Airpark', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('ULO', 'Ulaangom Airport', 'IE');
-insert into airport (airport_id, airport_fullname, country_id) values ('SRQ', 'Sarasota Bradenton International Airport', 'CU');
-insert into airport (airport_id, airport_fullname, country_id) values ('MUT', 'Muscatine Municipal Airport', 'SE');
-insert into airport (airport_id, airport_fullname, country_id) values ('MUF', 'Muting Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('PDB', 'Pedro Bay Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('PIF', 'Pingtung North Airport', 'ME');
-insert into airport (airport_id, airport_fullname, country_id) values ('UTN', 'Pierre Van Ryneveld Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('RHE', 'Reims-Champagne (BA 112) Air Base', 'RU');
-insert into airport (airport_id, airport_fullname, country_id) values ('LAC', 'Layang-Layang Airport', 'PL');
-insert into airport (airport_id, airport_fullname, country_id) values ('PCB', 'Pondok Cabe Air Base', 'FR');
-insert into airport (airport_id, airport_fullname, country_id) values ('AJU', 'Santa Maria Airport', 'BR');
-insert into airport (airport_id, airport_fullname, country_id) values ('YFG', 'Fontanges Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('KGF', 'Sary-Arka Airport', 'EC');
-insert into airport (airport_id, airport_fullname, country_id) values ('DFI', 'Defiance Memorial Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('PTZ', 'Rio Amazonas Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('UTT', 'K. D. Matanzima Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('CBE', 'Greater Cumberland Regional Airport', 'US');
-insert into airport (airport_id, airport_fullname, country_id) values ('CCG', 'Crane County Airport', 'CZ');
-insert into airport (airport_id, airport_fullname, country_id) values ('LME', 'Le Mans-Arnage Airport', 'SE');
-insert into airport (airport_id, airport_fullname, country_id) values ('HWA', 'Hawabango Airport', 'RS');
-insert into airport (airport_id, airport_fullname, country_id) values ('GFO', 'Bartica A Airport', 'BR');
-insert into airport (airport_id, airport_fullname, country_id) values ('LUZ', 'Lublin Airport', 'UA');
-insert into airport (airport_id, airport_fullname, country_id) values ('GZW', 'Qazvin Airport', 'MG');
-insert into airport (airport_id, airport_fullname, country_id) values ('SMA', 'Santa Maria Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('ROY', 'Rio Mayo Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('VSF', 'Hartness State (Springfield) Airport', 'CZ');
-insert into airport (airport_id, airport_fullname, country_id) values ('EBW', 'Ebolowa Airport', 'ID');
-insert into airport (airport_id, airport_fullname, country_id) values ('GRP', 'Gurupi Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('AUH', 'Abu Dhabi International Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('QLP', 'Sarzana-Luni Air Base', 'PT');
-insert into airport (airport_id, airport_fullname, country_id) values ('ERB', 'Ernabella Airport', 'FR');
-insert into airport (airport_id, airport_fullname, country_id) values ('VTU', 'Hermanos Ameijeiras Airport', 'SE');
-insert into airport (airport_id, airport_fullname, country_id) values ('KCR', 'Colorado Creek Airport', 'CN');
-insert into airport (airport_id, airport_fullname, country_id) values ('AXU', 'Axum Airport', 'MZ');
-insert into airport (airport_id, airport_fullname, country_id) values ('AOC', 'Altenburg-Nobitz Airport', 'GR');
-insert into airport (airport_id, airport_fullname, country_id) values ('VAM', 'Villa Airport', 'PT');
-insert into airport (airport_id, airport_fullname, country_id) values ('AVA', 'Anshun Huangguoshu Airport', 'AR');
-insert into airport (airport_id, airport_fullname, country_id) values ('IXB', 'Bagdogra Airport', 'PH');
-insert into airport (airport_id, airport_fullname, country_id) values ('XCH', 'Christmas Island Airport', 'MK');
-insert into airport (airport_id, airport_fullname, country_id) values ('YHD', 'Dryden Regional Airport', 'BR');
-insert into airport (airport_id, airport_fullname, country_id) values ('CVS', 'Cannon Air Force Base', 'FI');
+INSERT ALL
+    into airport (airport_id, airport_fullname, country_id) values ('DMD', 'Doomadgee Airport', 'GY')
+    into airport (airport_id, airport_fullname, country_id) values ('YQH', 'Watson Lake Airport', 'BY')
+    into airport (airport_id, airport_fullname, country_id) values ('SRI', 'Temindung Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('BOS', 'General Edward Lawrence Logan International Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('ERD', 'Berdyansk Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('JCT', 'Kimble County Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('EBM', 'El Borma Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('BHR', 'Bharatpur Airport', 'BR')
+    into airport (airport_id, airport_fullname, country_id) values ('NOR', 'Norðfjörður Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('NSN', 'Nelson Airport', 'CA')
+    into airport (airport_id, airport_fullname, country_id) values ('RNR', 'Robinson River Airport', 'FI')
+    into airport (airport_id, airport_fullname, country_id) values ('DOD', 'Dodoma Airport', 'JP')
+    into airport (airport_id, airport_fullname, country_id) values ('LAZ', 'Bom Jesus da Lapa Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('PGF', 'Perpignan-Rivesaltes (Llabanère) Airport', 'UA')
+    into airport (airport_id, airport_fullname, country_id) values ('CIU', 'Chippewa County International Airport', 'BR')
+    into airport (airport_id, airport_fullname, country_id) values ('LOS', 'Murtala Muhammed International Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('PLH', 'Plymouth City Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('IFA', 'Iowa Falls Municipal Airport', 'CL')
+    into airport (airport_id, airport_fullname, country_id) values ('FSN', 'Haley Army Airfield', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('RCQ', 'Reconquista Airport', 'CA')
+    into airport (airport_id, airport_fullname, country_id) values ('ATC', 'Arthur''s Town Airport', 'FI')
+    into airport (airport_id, airport_fullname, country_id) values ('LDM', 'Mason County Airport', 'ZA')
+    into airport (airport_id, airport_fullname, country_id) values ('RNO', 'Reno Tahoe International Airport', 'BR')
+    into airport (airport_id, airport_fullname, country_id) values ('HEI', 'Heide-Büsum Airport', 'GR')
+    into airport (airport_id, airport_fullname, country_id) values ('MEK', 'Bassatine Airport', 'SI')
+    into airport (airport_id, airport_fullname, country_id) values ('TKG', 'Radin Inten II (Branti) Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('NHK', 'Patuxent River Naval Air Station (Trapnell Field)', 'CZ')
+    into airport (airport_id, airport_fullname, country_id) values ('TAP', 'Tapachula International Airport', 'DO')
+    into airport (airport_id, airport_fullname, country_id) values ('CWT', 'Cowra Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('MGG', 'Margarima Airport', 'CZ')
+    into airport (airport_id, airport_fullname, country_id) values ('BWP', 'Bewani Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('UTH', 'Udon Thani Airport', 'GR')
+    into airport (airport_id, airport_fullname, country_id) values ('WLK', 'Selawik Airport', 'VN')
+    into airport (airport_id, airport_fullname, country_id) values ('GZM', 'Xewkija Heliport', 'PT')
+    into airport (airport_id, airport_fullname, country_id) values ('EMP', 'Emporia Municipal Airport', 'CO')
+    into airport (airport_id, airport_fullname, country_id) values ('KYI', 'Yalata Mission Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('IXH', 'Kailashahar Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('BCJ', 'Baca Grande Airfield', 'MX')
+    into airport (airport_id, airport_fullname, country_id) values ('COR', 'Ingeniero Ambrosio Taravella Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('CBT', 'Catumbela Airport', 'BR')
+    into airport (airport_id, airport_fullname, country_id) values ('SSX', 'Singita Safari Lodge Airport', 'PT')
+    into airport (airport_id, airport_fullname, country_id) values ('XXN', 'Riyadh Air Base', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('YXU', 'London Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('CXO', 'Conroe-North Houston Regional Airport', 'AF')
+    into airport (airport_id, airport_fullname, country_id) values ('DZO', 'Santa Bernardina International Airport', 'LK')
+    into airport (airport_id, airport_fullname, country_id) values ('BMQ', 'Bamburi Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('JSJ', 'Jiansanjiang Airport', 'DE')
+    into airport (airport_id, airport_fullname, country_id) values ('YBP', 'Yibin Caiba Airport', 'RS')
+    into airport (airport_id, airport_fullname, country_id) values ('CBL', 'Aeropuerto "General Tomas de Heres". Ciudad Bolivar', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('NHS', 'Nushki Airport', 'YE')
+    into airport (airport_id, airport_fullname, country_id) values ('CXA', 'Caicara del Orinoco Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('UPR', 'Upiara Airport', 'UA')
+    into airport (airport_id, airport_fullname, country_id) values ('HIW', 'Hiroshimanishi Airport', 'CZ')
+    into airport (airport_id, airport_fullname, country_id) values ('CIO', 'Teniente Col Carmelo Peralta Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('CXM', 'Camaxilo Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('JUL', 'Inca Manco Capac International Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('KZG', 'Flugplatz Kitzingen', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('SDX', 'Sedona Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('TER', 'Lajes Airport', 'CV')
+    into airport (airport_id, airport_fullname, country_id) values ('LBK', 'Liboi Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('YGW', 'Kuujjuarapik Airport', 'BY')
+    into airport (airport_id, airport_fullname, country_id) values ('RAT', 'Raduzhny Airport', 'BR')
+    into airport (airport_id, airport_fullname, country_id) values ('FRB', 'Forbes Airport', 'PE')
+    into airport (airport_id, airport_fullname, country_id) values ('HEG', 'Heglig Airport', 'PL')
+    into airport (airport_id, airport_fullname, country_id) values ('UTR', 'Uttaradit Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('KAB', 'Kariba International Airport', 'ML')
+    into airport (airport_id, airport_fullname, country_id) values ('FTW', 'Fort Worth Meacham International Airport', 'AR')
+    into airport (airport_id, airport_fullname, country_id) values ('AOL', 'Paso De Los Libres Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('YAK', 'Yakutat Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('EVE', 'Harstad/Narvik Airport, Evenes', 'AM')
+    into airport (airport_id, airport_fullname, country_id) values ('SKN', 'Stokmarknes Skagen Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('LDY', 'City of Derry Airport', 'LV')
+    into airport (airport_id, airport_fullname, country_id) values ('ZUC', 'Ignace Municipal Airport', 'TZ')
+    into airport (airport_id, airport_fullname, country_id) values ('GSO', 'Piedmont Triad International Airport', 'AR')
+    into airport (airport_id, airport_fullname, country_id) values ('TDN', 'Theda Station Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('ZVK', 'Savannakhet Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('OEO', 'L O Simenstad Municipal Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('CMX', 'Houghton County Memorial Airport', 'UZ')
+    into airport (airport_id, airport_fullname, country_id) values ('QMH', 'Oum el Bouaghi airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('ZQW', 'Zweibrücken Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('SNM', 'San Ignacio de Moxos Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('SOO', 'Söderhamn Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('MOJ', 'Moengo Airstrip', 'TH')
+    into airport (airport_id, airport_fullname, country_id) values ('SZP', 'Santa Paula Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('DRF', 'Drift River Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('PPD', 'Palmas del Mar Airstrip', 'ZA')
+    into airport (airport_id, airport_fullname, country_id) values ('CWL', 'Cardiff International Airport', 'RS')
+    into airport (airport_id, airport_fullname, country_id) values ('SDS', 'Sado Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('MTJ', 'Montrose Regional Airport', 'PL')
+    into airport (airport_id, airport_fullname, country_id) values ('FUB', 'Fulleborn Airport', 'GR')
+    into airport (airport_id, airport_fullname, country_id) values ('PYH', 'Cacique Aramare Airport', 'GR')
+    into airport (airport_id, airport_fullname, country_id) values ('SME', 'Lake Cumberland Regional Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('NEF', 'Neftekamsk Airport', 'RS')
+    into airport (airport_id, airport_fullname, country_id) values ('RNI', 'Corn Island', 'ZA')
+    into airport (airport_id, airport_fullname, country_id) values ('CKV', 'Clarksville–Montgomery County Regional Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('MZH', 'Amasya Merzifon Airport', 'BR')
+    into airport (airport_id, airport_fullname, country_id) values ('AZN', 'Andizhan Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('BFH', 'Bacacheri Airport', 'MN')
+    into airport (airport_id, airport_fullname, country_id) values ('KWE', 'Longdongbao Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('XKY', 'Kaya Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('MPA', 'Katima Mulilo Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('RHN', 'Skorpion Mine Airport', 'SE')
+    into airport (airport_id, airport_fullname, country_id) values ('NOD', 'Norden-Norddeich Airport', 'FM')
+    into airport (airport_id, airport_fullname, country_id) values ('KPN', 'Kipnuk Airport', 'SE')
+    into airport (airport_id, airport_fullname, country_id) values ('KQH', 'Kishangarh Airport', 'ET')
+    into airport (airport_id, airport_fullname, country_id) values ('OPB', 'Open Bay Airport', 'SE')
+    into airport (airport_id, airport_fullname, country_id) values ('GOZ', 'Gorna Oryahovitsa Airport', 'UG')
+    into airport (airport_id, airport_fullname, country_id) values ('YCB', 'Cambridge Bay Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('AHZ', 'Altiport L''Alpe d''Huez - Henri GIRAUD', 'LV')
+    into airport (airport_id, airport_fullname, country_id) values ('MSD', 'Mount Pleasant Airport', 'AR')
+    into airport (airport_id, airport_fullname, country_id) values ('ADN', 'Andes Airport', 'CZ')
+    into airport (airport_id, airport_fullname, country_id) values ('RAG', 'Raglan Airfield', 'PT')
+    into airport (airport_id, airport_fullname, country_id) values ('MLC', 'Mc Alester Regional Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('HWD', 'Hayward Executive Airport', 'NG')
+    into airport (airport_id, airport_fullname, country_id) values ('HTT', 'Huatugou Airport', 'BR')
+    into airport (airport_id, airport_fullname, country_id) values ('CIP', 'Chipata Airport', 'MX')
+    into airport (airport_id, airport_fullname, country_id) values ('ANF', 'Andrés Sabella Gálvez International Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('CJL', 'Chitral Airport', 'US')
+    into airport (airport_id, airport_fullname, country_id) values ('MNR', 'Mongu Airport', 'KE')
+    into airport (airport_id, airport_fullname, country_id) values ('WIO', 'Wilcannia Airport', 'VN')
+    into airport (airport_id, airport_fullname, country_id) values ('VYD', 'Vryheid Airport', 'UA')
+    into airport (airport_id, airport_fullname, country_id) values ('KAF', 'Karato Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('DCY', 'Daocheng Yading Airport', 'ES')
+    into airport (airport_id, airport_fullname, country_id) values ('NRG', 'Narrogin Airport', 'FR')
+    into airport (airport_id, airport_fullname, country_id) values ('LUL', 'Hesler Noble Field', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('BVA', 'Paris Beauvais Tillé Airport', 'AL')
+    into airport (airport_id, airport_fullname, country_id) values ('VIA', 'Videira Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('LWE', 'Lewoleba Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('ASM', 'Asmara International Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('BUN', 'Gerardo Tobar López Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('OXC', 'Waterbury Oxford Airport', 'GN')
+    into airport (airport_id, airport_fullname, country_id) values ('ELP', 'El Paso International Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('CRA', 'Craiova Airport', 'YE')
+    into airport (airport_id, airport_fullname, country_id) values ('MOZ', 'Moorea Airport', 'NG')
+    into airport (airport_id, airport_fullname, country_id) values ('TML', 'Tamale Airport', 'BR')
+    into airport (airport_id, airport_fullname, country_id) values ('GOL', 'Gold Beach Municipal Airport', 'MG')
+    into airport (airport_id, airport_fullname, country_id) values ('MLA', 'Malta International Airport', 'PT')
+    into airport (airport_id, airport_fullname, country_id) values ('SZB', 'Sultan Abdul Aziz Shah International Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('FSC', 'Figari Sud-Corse Airport', 'GR')
+    into airport (airport_id, airport_fullname, country_id) values ('WLS', 'Hihifo Airport', 'TH')
+    into airport (airport_id, airport_fullname, country_id) values ('CVH', 'Caviahue Airport', 'SE')
+    into airport (airport_id, airport_fullname, country_id) values ('PIT', 'Pittsburgh International Airport', 'VE')
+    into airport (airport_id, airport_fullname, country_id) values ('PEN', 'Penang International Airport', 'FR')
+    into airport (airport_id, airport_fullname, country_id) values ('KAP', 'Kapanga Airport', 'TH')
+    into airport (airport_id, airport_fullname, country_id) values ('0', 'Rio Paranaíba Airport', 'SI')
+    into airport (airport_id, airport_fullname, country_id) values ('FDR', 'Frederick Regional Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('CLG', 'Coalinga Airport', 'AR')
+    into airport (airport_id, airport_fullname, country_id) values ('HOA', 'Hola Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('SII', 'Sidi Ifni Xx Airport', 'PE')
+    into airport (airport_id, airport_fullname, country_id) values ('NDR', 'Nador International Airport', 'KG')
+    into airport (airport_id, airport_fullname, country_id) values ('BYT', 'Bantry Aerodrome', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('KDZ', 'Polgolla Reservoir Seaplane Base', 'PT')
+    into airport (airport_id, airport_fullname, country_id) values ('PPX', 'Param Airport', 'FR')
+    into airport (airport_id, airport_fullname, country_id) values ('RSK', 'Abresso Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('RNZ', 'Jasper County Airport', 'PT')
+    into airport (airport_id, airport_fullname, country_id) values ('DCI', 'Decimomannu Air Base', 'PL')
+    into airport (airport_id, airport_fullname, country_id) values ('MJR', 'Miramar Airport', 'UA')
+    into airport (airport_id, airport_fullname, country_id) values ('KLY', 'Kinkungwa Airport', 'BG')
+    into airport (airport_id, airport_fullname, country_id) values ('HUX', 'Bahías de Huatulco International Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('OYP', 'Saint-Georges-de-l''Oyapock Airport', 'SI')
+    into airport (airport_id, airport_fullname, country_id) values ('YEG', 'Edmonton International Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('GXQ', 'Teniente Vidal Airport', 'US')
+    into airport (airport_id, airport_fullname, country_id) values ('MUG', 'Mulege Airport', 'GR')
+    into airport (airport_id, airport_fullname, country_id) values ('YSP', 'Marathon Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('MQC', 'Miquelon Airport', 'GT')
+    into airport (airport_id, airport_fullname, country_id) values ('MGI', 'Matagorda Island Air Force Base', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('KEH', 'Kenmore Air Harbor Inc Seaplane Base', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('DPS', 'Ngurah Rai (Bali) International Airport', 'AL')
+    into airport (airport_id, airport_fullname, country_id) values ('AXK', 'Ataq Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('RNL', 'Rennell/Tingoa Airport', 'PE')
+    into airport (airport_id, airport_fullname, country_id) values ('SUR', 'Summer Beaver Airport', 'BR')
+    into airport (airport_id, airport_fullname, country_id) values ('LYA', 'Luoyang Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('CKN', 'Crookston Municipal Kirkwood Field', 'SE')
+    into airport (airport_id, airport_fullname, country_id) values ('ACV', 'California Redwood Coast-Humboldt County Airport', 'RE')
+    into airport (airport_id, airport_fullname, country_id) values ('BFL', 'Meadows Field', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('JEJ', 'Jeh Airport', 'FI')
+    into airport (airport_id, airport_fullname, country_id) values ('MZU', 'Muzaffarpur Airport', 'AF')
+    into airport (airport_id, airport_fullname, country_id) values ('ZEN', 'Zenag Airport', 'CA')
+    into airport (airport_id, airport_fullname, country_id) values ('ITU', 'Iturup Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('CZA', 'Chichen Itza International Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('OUA', 'Ouagadougou Airport', 'BR')
+    into airport (airport_id, airport_fullname, country_id) values ('ISU', 'Sulaymaniyah International Airport', 'HR')
+    into airport (airport_id, airport_fullname, country_id) values ('MNN', 'Marion Municipal Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('BZH', 'Bumi Airport', 'HR')
+    into airport (airport_id, airport_fullname, country_id) values ('JTC', 'Bauru - Arealva Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('AIH', 'Aiambak Airport', 'IL')
+    into airport (airport_id, airport_fullname, country_id) values ('EWK', 'Newton City-County Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('TDK', 'Taldykorgan Airport', 'UA')
+    into airport (airport_id, airport_fullname, country_id) values ('HOI', 'Hao Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('FAI', 'Fairbanks International Airport', 'FR')
+    into airport (airport_id, airport_fullname, country_id) values ('LMZ', 'Palma Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('BXV', 'Breiðdalsvík Airport', 'AR')
+    into airport (airport_id, airport_fullname, country_id) values ('MGQ', 'Aden Adde International Airport', 'CA')
+    into airport (airport_id, airport_fullname, country_id) values ('CAW', 'Bartolomeu Lisandro Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('FRS', 'Mundo Maya International Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('GOI', 'Dabolim Airport', 'FR')
+    into airport (airport_id, airport_fullname, country_id) values ('PMV', 'Del Caribe Santiago Mariño International Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('FBD', 'Fayzabad Airport', 'PT')
+    into airport (airport_id, airport_fullname, country_id) values ('RPR', 'Raipur Airport', 'PL')
+    into airport (airport_id, airport_fullname, country_id) values ('GNT', 'Grants-Milan Municipal Airport', 'GB')
+    into airport (airport_id, airport_fullname, country_id) values ('DGM', 'Dandugama Seaplane Base', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('SUM', 'Sumter Airport', 'BZ')
+    into airport (airport_id, airport_fullname, country_id) values ('SRP', 'Stord Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('OTC', 'Bol Airport', 'PL')
+    into airport (airport_id, airport_fullname, country_id) values ('ZTS', 'Tahsis Seaplane Base', 'US')
+    into airport (airport_id, airport_fullname, country_id) values ('XLO', 'Long Xuyên Airport', 'JP')
+    into airport (airport_id, airport_fullname, country_id) values ('TLF', 'Telida Airport', 'TH')
+    into airport (airport_id, airport_fullname, country_id) values ('FKJ', 'Fukui Airport', 'BR')
+    into airport (airport_id, airport_fullname, country_id) values ('NOC', 'Ireland West Knock Airport', 'US')
+    into airport (airport_id, airport_fullname, country_id) values ('RGE', 'Porgera Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('PCV', 'Punta Chivato Airport', 'SE')
+    into airport (airport_id, airport_fullname, country_id) values ('OHR', 'Wyk auf Föhr Airport', 'PL')
+    into airport (airport_id, airport_fullname, country_id) values ('SEH', 'Senggeh Airport', 'PK')
+    into airport (airport_id, airport_fullname, country_id) values ('SRU', 'Santa Cruz Sky Park', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('LDC', 'Lindeman Island Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('VYS', 'Illinois Valley Regional Airport-Walter A Duncan Field', 'AR')
+    into airport (airport_id, airport_fullname, country_id) values ('PTZ', 'Rio Amazonas Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('TEV', 'Teruel Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('SFF', 'Felts Field', 'MX')
+    into airport (airport_id, airport_fullname, country_id) values ('KKE', 'Kerikeri Airport', 'US')
+    into airport (airport_id, airport_fullname, country_id) values ('YGY', 'Deception Airport', 'PL')
+    into airport (airport_id, airport_fullname, country_id) values ('ZHM', 'Shamshernagar Airport', 'BR')
+    into airport (airport_id, airport_fullname, country_id) values ('KYU', 'Koyukuk Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('LUW', 'Syukuran Aminuddin Amir Airport', 'DE')
+    into airport (airport_id, airport_fullname, country_id) values ('TRJ', 'Tarakbits Airport', 'UA')
+    into airport (airport_id, airport_fullname, country_id) values ('TRH', 'Trona Airport', 'GT')
+    into airport (airport_id, airport_fullname, country_id) values ('AYS', 'Waycross Ware County Airport', 'BD')
+    into airport (airport_id, airport_fullname, country_id) values ('BLG', 'Belaga Airport', 'PT')
+    into airport (airport_id, airport_fullname, country_id) values ('MPU', 'Mapua(Mabua) Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('NDE', 'Mandera Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('SKK', 'Shaktoolik Airport', 'PT')
+    into airport (airport_id, airport_fullname, country_id) values ('YPJ', 'Aupaluk Airport', 'CO')
+    into airport (airport_id, airport_fullname, country_id) values ('WHD', 'Hyder Seaplane Base', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('PEK', 'Beijing Capital International Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('LNV', 'Londolovit Airport', 'FR')
+    into airport (airport_id, airport_fullname, country_id) values ('PIN', 'Parintins Airport', 'BJ')
+    into airport (airport_id, airport_fullname, country_id) values ('AHU', 'Cherif Al Idrissi Airport', 'SV')
+    into airport (airport_id, airport_fullname, country_id) values ('OCE', 'Ocean City Municipal Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('BMF', 'Bakouma Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('UAK', 'Narsarsuaq Airport', 'PT')
+    into airport (airport_id, airport_fullname, country_id) values ('TAK', 'Takamatsu Airport', 'CO')
+    into airport (airport_id, airport_fullname, country_id) values ('LQM', 'Caucaya Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('FMO', 'Münster Osnabrück Airport', 'PA')
+    into airport (airport_id, airport_fullname, country_id) values ('ORX', 'Oriximiná Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('AKG', 'Anguganak Airport', 'VN')
+    into airport (airport_id, airport_fullname, country_id) values ('VLM', 'Teniente Coronel Rafael Pabón Airport', 'PT')
+    into airport (airport_id, airport_fullname, country_id) values ('WCH', 'Chaitén Airport', 'MY')
+    into airport (airport_id, airport_fullname, country_id) values ('USH', 'Malvinas Argentinas Airport', 'US')
+    into airport (airport_id, airport_fullname, country_id) values ('TKP', 'Takapoto Airport', 'BO')
+    into airport (airport_id, airport_fullname, country_id) values ('VIV', 'Vivigani Airfield', 'UG')
+    into airport (airport_id, airport_fullname, country_id) values ('YKO', 'Hakkari Yüksekova Airport', 'CH')
+    into airport (airport_id, airport_fullname, country_id) values ('YYE', 'Fort Nelson Airport', 'ZA')
+    into airport (airport_id, airport_fullname, country_id) values ('SBS', 'Steamboat Springs Bob Adams Field', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('YEI', 'Bursa Yenişehir Airport', 'ZA')
+    into airport (airport_id, airport_fullname, country_id) values ('OUA', 'Ouagadougou Airport', 'NA')
+    into airport (airport_id, airport_fullname, country_id) values ('YLE', 'Whatì Airport', 'EC')
+    into airport (airport_id, airport_fullname, country_id) values ('FVM', 'Fuvahmulah Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('VOZ', 'Voronezh International Airport', 'LY')
+    into airport (airport_id, airport_fullname, country_id) values ('BXR', 'Bam Airport', 'BR')
+    into airport (airport_id, airport_fullname, country_id) values ('YQW', 'North Battleford Airport', 'MA')
+    into airport (airport_id, airport_fullname, country_id) values ('FTY', 'Fulton County Airport Brown Field', 'MA')
+    into airport (airport_id, airport_fullname, country_id) values ('MGY', 'Dayton-Wright Brothers Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('JCA', 'Croisette Heliport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('GMV', 'Monument Valley Airport', 'NO')
+    into airport (airport_id, airport_fullname, country_id) values ('SPP', 'Menongue Airport', 'ME')
+    into airport (airport_id, airport_fullname, country_id) values ('FRL', 'Forlì Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('SSP', 'Silver Plains Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('FIZ', 'Fitzroy Crossing Airport', 'US')
+    into airport (airport_id, airport_fullname, country_id) values ('WNA', 'Napakiak Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('SHI', 'Shimojishima Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('ECH', 'Echuca Airport', 'KE')
+    into airport (airport_id, airport_fullname, country_id) values ('PBI', 'Palm Beach International Airport', 'TZ')
+    into airport (airport_id, airport_fullname, country_id) values ('EVA', 'Ben Bruce Memorial Airpark', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('THA', 'Tullahoma Regional Arpt/Wm Northern Field', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('QSN', 'San Nicolas De Bari Airport', 'JP')
+    into airport (airport_id, airport_fullname, country_id) values ('GAI', 'Montgomery County Airpark', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('OAJ', 'Albert J Ellis Airport', 'PL')
+    into airport (airport_id, airport_fullname, country_id) values ('ALC', 'Alicante International Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('AYT', 'Antalya International Airport', 'PE')
+    into airport (airport_id, airport_fullname, country_id) values ('RUG', 'Rugao Air Base', 'MX')
+    into airport (airport_id, airport_fullname, country_id) values ('TPA', 'Tampa International Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('IST', 'Istanbul Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('ITR', 'Francisco Vilela do Amaral Airport', 'TH')
+    into airport (airport_id, airport_fullname, country_id) values ('PBF', 'Pine Bluff Regional Airport, Grider Field', 'FR')
+    into airport (airport_id, airport_fullname, country_id) values ('SLU', 'George F. L. Charles Airport', 'HN')
+    into airport (airport_id, airport_fullname, country_id) values ('SME', 'Lake Cumberland Regional Airport', 'BR')
+    into airport (airport_id, airport_fullname, country_id) values ('BNY', 'Bellona/Anua Airport', 'SE')
+    into airport (airport_id, airport_fullname, country_id) values ('ANW', 'Ainsworth Regional Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('QSZ', 'Yeerqiang Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('NTG', 'Nantong Airport', 'MW')
+    into airport (airport_id, airport_fullname, country_id) values ('CLA', 'Comilla Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('KUF', 'Kurumoch International Airport', 'GT')
+    into airport (airport_id, airport_fullname, country_id) values ('KOP', 'Nakhon Phanom Airport', 'MK')
+    into airport (airport_id, airport_fullname, country_id) values ('EHM', 'Cape Newenham LRRS Airport', 'ZA')
+    into airport (airport_id, airport_fullname, country_id) values ('BHV', 'Bahawalpur Airport', 'VN')
+    into airport (airport_id, airport_fullname, country_id) values ('KYS', 'Kayes Dag Dag Airport', 'PE')
+    into airport (airport_id, airport_fullname, country_id) values ('SVT', 'Savuti Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('ZLX', 'Zalingei Airport', 'NL')
+    into airport (airport_id, airport_fullname, country_id) values ('YPT', 'Pender Harbour Seaplane Base', 'ES')
+    into airport (airport_id, airport_fullname, country_id) values ('ADS', 'Addison Airport', 'AL')
+    into airport (airport_id, airport_fullname, country_id) values ('AKA', 'Ankang Wulipu Airport', 'CA')
+    into airport (airport_id, airport_fullname, country_id) values ('QHN', 'Taguatinga Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('CSK', 'Cap Skirring Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('CGS', 'College Park Airport', 'ZA')
+    into airport (airport_id, airport_fullname, country_id) values ('NKB', 'Noonkanbah Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('SEU', 'Seronera Airport', 'FR')
+    into airport (airport_id, airport_fullname, country_id) values ('DAX', 'Dachuan Airport', 'PT')
+    into airport (airport_id, airport_fullname, country_id) values ('QPA', 'Padova Airport', 'KE')
+    into airport (airport_id, airport_fullname, country_id) values ('0', 'Venâncio Aires Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('EFG', 'Efogi Airport', 'HR')
+    into airport (airport_id, airport_fullname, country_id) values ('MJS', 'Maganja da Costa Airport', 'PT')
+    into airport (airport_id, airport_fullname, country_id) values ('ATN', 'Namatanai Airport', 'TN')
+    into airport (airport_id, airport_fullname, country_id) values ('AHS', 'Ahuas Airport', 'KR')
+    into airport (airport_id, airport_fullname, country_id) values ('AUV', 'Aumo Airport', 'PE')
+    into airport (airport_id, airport_fullname, country_id) values ('CCT', 'Colonia Catriel Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('OTS', 'Anacortes Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('KMX', 'King Khaled Air Base', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('REA', 'Reao Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('NUG', 'Nuguria Airstrip', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('ESL', 'Elista Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('EAU', 'Chippewa Valley Regional Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('NRI', 'Grand Lake Regional Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('MSS', 'Massena International Richards Field', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('0', 'Mirassol Airport', 'CA')
+    into airport (airport_id, airport_fullname, country_id) values ('LNQ', 'Loani Airport', 'PY')
+    into airport (airport_id, airport_fullname, country_id) values ('IGH', 'Ingham Airport', 'NL')
+    into airport (airport_id, airport_fullname, country_id) values ('AZI', 'Bateen Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('MWP', 'Mountain Airport', 'VN')
+    into airport (airport_id, airport_fullname, country_id) values ('SFX', 'Macagua Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('GYE', 'José Joaquín de Olmedo International Airport', 'PT')
+    into airport (airport_id, airport_fullname, country_id) values ('MCI', 'Kansas City International Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('SVJ', 'Svolvær Helle Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('KOH', 'Koolatah Airport', 'PL')
+    into airport (airport_id, airport_fullname, country_id) values ('GBD', 'Great Bend Municipal Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('UAP', 'Ua Pou Airport', 'SE')
+    into airport (airport_id, airport_fullname, country_id) values ('RUP', 'Rupsi India Airport', 'PL')
+    into airport (airport_id, airport_fullname, country_id) values ('OKF', 'Okaukuejo Airport', 'MX')
+    into airport (airport_id, airport_fullname, country_id) values ('TTN', 'Trenton Mercer Airport', 'VN')
+    into airport (airport_id, airport_fullname, country_id) values ('OKS', 'Garden County Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('CHQ', 'Chania International Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('TLA', 'Teller Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('HNS', 'Haines Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('RTL', 'Spirit Lake Municipal Airport', 'KZ')
+    into airport (airport_id, airport_fullname, country_id) values ('GVP', 'Greenvale Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('BGD', 'Hutchinson County Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('MBX', 'Maribor Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('APB', 'Apolo Airport', 'PL')
+    into airport (airport_id, airport_fullname, country_id) values ('PBR', 'Puerto Barrios Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('KCF', 'Kadanwari Airport', 'IR')
+    into airport (airport_id, airport_fullname, country_id) values ('XKY', 'Kaya Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('POF', 'Poplar Bluff Municipal Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('MGN', 'Baracoa Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('RGA', 'Hermes Quijada International Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('SXQ', 'Soldotna Airport', 'BR')
+    into airport (airport_id, airport_fullname, country_id) values ('MNM', 'Menominee Regional Airport', 'FR')
+    into airport (airport_id, airport_fullname, country_id) values ('HEW', 'Athen Helenikon Airport', 'BR')
+    into airport (airport_id, airport_fullname, country_id) values ('HME', 'Oued Irara Airport', 'AU')
+    into airport (airport_id, airport_fullname, country_id) values ('JRS', 'Jerusalem Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('BYQ', 'Bunyu Airport', 'NG')
+    into airport (airport_id, airport_fullname, country_id) values ('MUC', 'Munich Airport', 'MN')
+    into airport (airport_id, airport_fullname, country_id) values ('NLU', 'Santa Lucia Air Force Base', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('PDE', 'Pandie Pandie Airport', 'CZ')
+    into airport (airport_id, airport_fullname, country_id) values ('NOO', 'Naoro Airport', 'BR')
+    into airport (airport_id, airport_fullname, country_id) values ('NAI', 'Annai Airport', 'CZ')
+    into airport (airport_id, airport_fullname, country_id) values ('ASJ', 'Amami Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('PPA', 'Perry Lefors Field', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('ELL', 'Ellisras Matimba Airport', 'HR')
+    into airport (airport_id, airport_fullname, country_id) values ('AKF', 'Kufra Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('WSU', 'Wasu Airport', 'JP')
+    into airport (airport_id, airport_fullname, country_id) values ('FYV', 'Drake Field', 'LV')
+    into airport (airport_id, airport_fullname, country_id) values ('SZV', 'Suzhou Guangfu Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('TJH', 'Tajima Airport', 'VN')
+    into airport (airport_id, airport_fullname, country_id) values ('MUN', 'Maturín Airport', 'BD')
+    into airport (airport_id, airport_fullname, country_id) values ('YNS', 'Nemiscau Airport', 'PL')
+    into airport (airport_id, airport_fullname, country_id) values ('CZS', 'Cruzeiro do Sul Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('BYC', 'Yacuiba Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('JDN', 'Jordan Airport', 'PT')
+    into airport (airport_id, airport_fullname, country_id) values ('KZO', 'Kzyl-Orda Southwest Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('HAU', 'Haugesund Airport', 'UA')
+    into airport (airport_id, airport_fullname, country_id) values ('SRB', 'Santa Rosa De Yacuma Airport', 'UA')
+    into airport (airport_id, airport_fullname, country_id) values ('GLS', 'Scholes International At Galveston Airport', 'MX')
+    into airport (airport_id, airport_fullname, country_id) values ('TJN', 'Takume Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('OAS', 'Sharana Airstrip', 'KZ')
+    into airport (airport_id, airport_fullname, country_id) values ('ROI', 'Roi Et Airport', 'UY')
+    into airport (airport_id, airport_fullname, country_id) values ('EGA', 'Engati Airstrip', 'PL')
+    into airport (airport_id, airport_fullname, country_id) values ('CJM', 'Chumphon Airport', 'TH')
+    into airport (airport_id, airport_fullname, country_id) values ('POG', 'Port Gentil Airport', 'LV')
+    into airport (airport_id, airport_fullname, country_id) values ('BVS', 'Breves Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('LIN', 'Milano Linate Airport', 'PL')
+    into airport (airport_id, airport_fullname, country_id) values ('FEL', 'Fürstenfeldbruck Air Base', 'PL')
+    into airport (airport_id, airport_fullname, country_id) values ('TYN', 'Taiyuan Wusu Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('BOP', 'Bouar Airport', 'BA')
+    into airport (airport_id, airport_fullname, country_id) values ('YWJ', 'Déline Airport', 'BI')
+    into airport (airport_id, airport_fullname, country_id) values ('WFK', 'Northern Aroostook Regional Airport', 'CO')
+    into airport (airport_id, airport_fullname, country_id) values ('MQJ', 'Moma Airport', 'US')
+    into airport (airport_id, airport_fullname, country_id) values ('PPD', 'Palmas del Mar Airstrip', 'DE')
+    into airport (airport_id, airport_fullname, country_id) values ('NNI', 'Namutoni Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('AWN', 'Alton Downs Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('BUC', 'Burketown Airport', 'GT')
+    into airport (airport_id, airport_fullname, country_id) values ('TGJ', 'Tiga Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('LWV', 'Lawrenceville Vincennes International Airport', 'PL')
+    into airport (airport_id, airport_fullname, country_id) values ('WUX', 'Sunan Shuofang International Airport', 'VN')
+    into airport (airport_id, airport_fullname, country_id) values ('OIT', 'Oita Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('ATL', 'Hartsfield Jackson Atlanta International Airport', 'BY')
+    into airport (airport_id, airport_fullname, country_id) values ('MEG', 'Malanje Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('ESG', 'Dr. Luis Maria Argaña International Airport', 'KZ')
+    into airport (airport_id, airport_fullname, country_id) values ('TMG', 'Tomanggong Airport', 'FR')
+    into airport (airport_id, airport_fullname, country_id) values ('SJH', 'San Juan Del César Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('TUP', 'Tupelo Regional Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('PWR', 'Port Walter Seaplane Base', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('DBM', 'Debra Marcos Airport', 'TZ')
+    into airport (airport_id, airport_fullname, country_id) values ('AJL', 'Lengpui Airport', 'CO')
+    into airport (airport_id, airport_fullname, country_id) values ('NOZ', 'Spichenkovo Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('KWS', 'Kwailabesi Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('UMY', 'Sumy Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('MRI', 'Merrill Field', 'FR')
+    into airport (airport_id, airport_fullname, country_id) values ('NMC', 'Normans Cay Airport', 'PS')
+    into airport (airport_id, airport_fullname, country_id) values ('KFS', 'Kastamonu Airport', 'AM')
+    into airport (airport_id, airport_fullname, country_id) values ('URD', 'Burg Feuerstein Airport', 'DO')
+    into airport (airport_id, airport_fullname, country_id) values ('YYY', 'Mont Joli Airport', 'FR')
+    into airport (airport_id, airport_fullname, country_id) values ('IOK', 'Iokea Airport', 'PT')
+    into airport (airport_id, airport_fullname, country_id) values ('OOM', 'Cooma Snowy Mountains Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('RBB', 'Borba Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('CYW', 'Captain Rogelio Castillo National Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('SNP', 'St Paul Island Airport', 'CA')
+    into airport (airport_id, airport_fullname, country_id) values ('LLV', 'Lüliang Airport', 'NZ')
+    into airport (airport_id, airport_fullname, country_id) values ('MUX', 'Multan International Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('GOC', 'Gora Airstrip', 'CZ')
+    into airport (airport_id, airport_fullname, country_id) values ('MIU', 'Maiduguri International Airport', 'PL')
+    into airport (airport_id, airport_fullname, country_id) values ('CUO', 'Carurú Airport', 'MX')
+    into airport (airport_id, airport_fullname, country_id) values ('UKA', 'Ukunda Airstrip', 'CD')
+    into airport (airport_id, airport_fullname, country_id) values ('YBE', 'Uranium City Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('BHA', 'Los Perales Airport', 'PE')
+    into airport (airport_id, airport_fullname, country_id) values ('HSZ', 'Hsinchu Air Base', 'JP')
+    into airport (airport_id, airport_fullname, country_id) values ('WTK', 'Noatak Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('MGI', 'Matagorda Island Air Force Base', 'VN')
+    into airport (airport_id, airport_fullname, country_id) values ('MKE', 'General Mitchell International Airport', 'CZ')
+    into airport (airport_id, airport_fullname, country_id) values ('YRD', 'Dean River Airport', 'CO')
+    into airport (airport_id, airport_fullname, country_id) values ('CUF', 'Cuneo International Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('JAN', 'Jackson-Medgar Wiley Evers International Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('MAC', 'Macon Downtown Airport', 'PL')
+    into airport (airport_id, airport_fullname, country_id) values ('AYM', 'Yas Island Seaplane Base', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('IDA', 'Idaho Falls Regional Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('NEC', 'Necochea Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('HIT', 'Haivaro Airport', 'HR')
+    into airport (airport_id, airport_fullname, country_id) values ('TNC', 'Tin City Long Range Radar Station Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('TKV', 'Tatakoto Airport', 'PT')
+    into airport (airport_id, airport_fullname, country_id) values ('AMA', 'Rick Husband Amarillo International Airport', 'IR')
+    into airport (airport_id, airport_fullname, country_id) values ('PBM', 'Johan Adolf Pengel International Airport', 'CA')
+    into airport (airport_id, airport_fullname, country_id) values ('RVV', 'Raivavae Airport', 'KM')
+    into airport (airport_id, airport_fullname, country_id) values ('TOW', 'Toledo Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('YXT', 'Northwest Regional Airport Terrace-Kitimat', 'JP')
+    into airport (airport_id, airport_fullname, country_id) values ('QRC', 'De La Independencia Airport', 'BA')
+    into airport (airport_id, airport_fullname, country_id) values ('MNZ', 'Manassas Regional Airport/Harry P. Davis Field', 'FR')
+    into airport (airport_id, airport_fullname, country_id) values ('LWY', 'Lawas Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('TYF', 'Torsby Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('SIX', 'Singleton Airport', 'FR')
+    into airport (airport_id, airport_fullname, country_id) values ('DGR', 'Dargaville Aerodrome', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('BLQ', 'Bologna Guglielmo Marconi Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('SOD', 'Sorocaba Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('BLD', 'Boulder City Municipal Airport', 'PT')
+    into airport (airport_id, airport_fullname, country_id) values ('LDM', 'Mason County Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('UTT', 'K. D. Matanzima Airport', 'GW')
+    into airport (airport_id, airport_fullname, country_id) values ('MMY', 'Miyako Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('NAQ', 'Qaanaaq Airport', 'VN')
+    into airport (airport_id, airport_fullname, country_id) values ('RNI', 'Corn Island', 'AR')
+    into airport (airport_id, airport_fullname, country_id) values ('MIB', 'Minot Air Force Base', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('OMH', 'Urmia Airport', 'PA')
+    into airport (airport_id, airport_fullname, country_id) values ('FSP', 'St Pierre Airport', 'GR')
+    into airport (airport_id, airport_fullname, country_id) values ('XMA', 'Maramag Airport', 'PL')
+    into airport (airport_id, airport_fullname, country_id) values ('AGW', 'Agnew Airport', 'ZW')
+    into airport (airport_id, airport_fullname, country_id) values ('MDZ', 'El Plumerillo Airport', 'AZ')
+    into airport (airport_id, airport_fullname, country_id) values ('KIJ', 'Niigata Airport', 'US')
+    into airport (airport_id, airport_fullname, country_id) values ('KJP', 'Kerama Airport', 'NO')
+    into airport (airport_id, airport_fullname, country_id) values ('YTY', 'Yangzhou Taizhou Airport', 'AU')
+    into airport (airport_id, airport_fullname, country_id) values ('DLA', 'Douala International Airport', 'NO')
+    into airport (airport_id, airport_fullname, country_id) values ('FMG', 'Flamingo Airport', 'FI')
+    into airport (airport_id, airport_fullname, country_id) values ('CFE', 'Clermont-Ferrand Auvergne Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('KAN', 'Mallam Aminu International Airport', 'GR')
+    into airport (airport_id, airport_fullname, country_id) values ('XDA', 'Dax Seyresse Airport', 'FR')
+    into airport (airport_id, airport_fullname, country_id) values ('PKV', 'Pskov Airport', 'US')
+    into airport (airport_id, airport_fullname, country_id) values ('PMD', 'Palmdale Regional/USAF Plant 42 Airport', 'AM')
+    into airport (airport_id, airport_fullname, country_id) values ('TAG', 'Tagbilaran Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('BMW', 'Bordj Badji Mokhtar Airport', 'FR')
+    into airport (airport_id, airport_fullname, country_id) values ('PYA', 'Velásquez Airport', 'NO')
+    into airport (airport_id, airport_fullname, country_id) values ('BCS', 'Southern Seaplane Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('BZP', 'Bizant Airport', 'PT')
+    into airport (airport_id, airport_fullname, country_id) values ('DLE', 'Dole-Tavaux Airport', 'MY')
+    into airport (airport_id, airport_fullname, country_id) values ('PPH', 'Perai Tepuy Airport', 'TH')
+    into airport (airport_id, airport_fullname, country_id) values ('YXT', 'Northwest Regional Airport Terrace-Kitimat', 'UA')
+    into airport (airport_id, airport_fullname, country_id) values ('LTX', 'Cotopaxi International Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('BBE', 'Big Bell Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('MFW', 'Magaruque Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('DGP', 'Daugavpils Intrenational Airport', 'ZM')
+    into airport (airport_id, airport_fullname, country_id) values ('RRM', 'Marromeu Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('DBK', 'Dutch Bay SPB', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('LPQ', 'Luang Phabang International Airport', 'JP')
+    into airport (airport_id, airport_fullname, country_id) values ('WAY', 'Greene County Airport', 'KZ')
+    into airport (airport_id, airport_fullname, country_id) values ('ULD', 'Prince Mangosuthu Buthelezi Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('SLE', 'Salem Municipal Airport/McNary Field', 'IE')
+    into airport (airport_id, airport_fullname, country_id) values ('YWM', 'Williams Harbour Airport', 'FR')
+    into airport (airport_id, airport_fullname, country_id) values ('BXD', 'Bade Airport', 'UZ')
+    into airport (airport_id, airport_fullname, country_id) values ('ALJ', 'Alexander Bay Airport', 'JP')
+    into airport (airport_id, airport_fullname, country_id) values ('UAP', 'Ua Pou Airport', 'MX')
+    into airport (airport_id, airport_fullname, country_id) values ('MVE', 'Montevideo Chippewa County Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('0', 'Laguna Airport', 'AL')
+    into airport (airport_id, airport_fullname, country_id) values ('MUG', 'Mulege Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('JUV', 'Upernavik Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('IND', 'Indianapolis International Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('MVE', 'Montevideo Chippewa County Airport', 'TH')
+    into airport (airport_id, airport_fullname, country_id) values ('PGB', 'Pangoa Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('YZD', 'Downsview Airport', 'KZ')
+    into airport (airport_id, airport_fullname, country_id) values ('PYE', 'Tongareva Airport', 'KR')
+    into airport (airport_id, airport_fullname, country_id) values ('AUS', 'Austin Bergstrom International Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('ZFW', 'Fairview Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('IGU', 'Cataratas International Airport', 'LU')
+    into airport (airport_id, airport_fullname, country_id) values ('MYV', 'Yuba County Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('YPJ', 'Aupaluk Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('LSV', 'Nellis Air Force Base', 'AR')
+    into airport (airport_id, airport_fullname, country_id) values ('SYY', 'Stornoway Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('HTT', 'Huatugou Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('CNI', 'Changhai Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('EKS', 'Shakhtyorsk Airport', 'NG')
+    into airport (airport_id, airport_fullname, country_id) values ('BOI', 'Boise Air Terminal/Gowen Field', 'FR')
+    into airport (airport_id, airport_fullname, country_id) values ('PUZ', 'Puerto Cabezas Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('PSE', 'Mercedita Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('ZGL', 'South Galway Airport', 'PT')
+    into airport (airport_id, airport_fullname, country_id) values ('ZXT', 'Zabrat Airport', 'TH')
+    into airport (airport_id, airport_fullname, country_id) values ('AEY', 'Akureyri Airport', 'FR')
+    into airport (airport_id, airport_fullname, country_id) values ('FRR', 'Front Royal Warren County Airport', 'ML')
+    into airport (airport_id, airport_fullname, country_id) values ('CIE', 'Collie Airport', 'VN')
+    into airport (airport_id, airport_fullname, country_id) values ('CFI', 'Camfield Airport', 'SY')
+    into airport (airport_id, airport_fullname, country_id) values ('YMM', 'Fort McMurray Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('MXI', 'Mati National Airport', 'AZ')
+    into airport (airport_id, airport_fullname, country_id) values ('KIB', 'Ivanof Bay Seaplane Base', 'WS')
+    into airport (airport_id, airport_fullname, country_id) values ('DRD', 'Dorunda Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('MRR', 'Jose Maria Velasco Ibarra Airport', 'JP')
+    into airport (airport_id, airport_fullname, country_id) values ('VRA', 'Juan Gualberto Gomez International Airport', 'ZA')
+    into airport (airport_id, airport_fullname, country_id) values ('RGK', 'Gorno-Altaysk Airport', 'BR')
+    into airport (airport_id, airport_fullname, country_id) values ('ISL', 'Atatürk International Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('MYU', 'Mekoryuk Airport', 'IR')
+    into airport (airport_id, airport_fullname, country_id) values ('RBS', 'Orbost Airport', 'HN')
+    into airport (airport_id, airport_fullname, country_id) values ('HJJ', 'Zhijiang Airport', 'US')
+    into airport (airport_id, airport_fullname, country_id) values ('LSE', 'La Crosse Municipal Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('PKH', 'Porto Cheli Airport', 'GR')
+    into airport (airport_id, airport_fullname, country_id) values ('IPI', 'San Luis Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('MUF', 'Muting Airport', 'BY')
+    into airport (airport_id, airport_fullname, country_id) values ('KCQ', 'Chignik Lake Airport', 'FR')
+    into airport (airport_id, airport_fullname, country_id) values ('ACI', 'Alderney Airport', 'BG')
+    into airport (airport_id, airport_fullname, country_id) values ('SIL', 'Sila Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('MHE', 'Mitchell Municipal Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('ULP', 'Quilpie Airport', 'TH')
+    into airport (airport_id, airport_fullname, country_id) values ('RVN', 'Rovaniemi Airport', 'PT')
+    into airport (airport_id, airport_fullname, country_id) values ('PNI', 'Pohnpei International Airport', 'PT')
+    into airport (airport_id, airport_fullname, country_id) values ('KVR', 'Kavalerovo Airport', 'PT')
+    into airport (airport_id, airport_fullname, country_id) values ('ADB', 'Adnan Menderes International Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('PKD', 'Park Rapids Municipal Konshok Field', 'JP')
+    into airport (airport_id, airport_fullname, country_id) values ('MMQ', 'Mbala Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('MTD', 'Mount Sanford Station Airport', 'PL')
+    into airport (airport_id, airport_fullname, country_id) values ('VJQ', 'Gurue Airport', 'FR')
+    into airport (airport_id, airport_fullname, country_id) values ('BPD', 'Bapi Airstrip', 'KP')
+    into airport (airport_id, airport_fullname, country_id) values ('MBT', 'Moises R. Espinosa Airport', 'UA')
+    into airport (airport_id, airport_fullname, country_id) values ('YRA', 'Rae Lakes Airport', 'PG')
+    into airport (airport_id, airport_fullname, country_id) values ('SFB', 'Orlando Sanford International Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('RBE', 'Ratanakiri Airport', 'BR')
+    into airport (airport_id, airport_fullname, country_id) values ('KOF', 'Komatipoort Airport', 'CA')
+    into airport (airport_id, airport_fullname, country_id) values ('QGC', 'Lençóis Paulista Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('MQK', 'San Matías Airport', 'PT')
+    into airport (airport_id, airport_fullname, country_id) values ('YHH', 'Campbell River Seaplane Base', 'AM')
+    into airport (airport_id, airport_fullname, country_id) values ('AXM', 'El Eden Airport', 'MX')
+    into airport (airport_id, airport_fullname, country_id) values ('OUK', 'Outer Skerries Airport', 'SE')
+    into airport (airport_id, airport_fullname, country_id) values ('XSI', 'South Indian Lake Airport', 'US')
+    into airport (airport_id, airport_fullname, country_id) values ('QDJ', 'Tsletsi Airport', 'FR')
+    into airport (airport_id, airport_fullname, country_id) values ('PHM', 'Böblingen Flugfeld', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('RUU', 'Ruti Airport', 'TN')
+    into airport (airport_id, airport_fullname, country_id) values ('ANL', 'Andulo Airport', 'PT')
+    into airport (airport_id, airport_fullname, country_id) values ('BRX', 'Maria Montez International Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('LRD', 'Laredo International Airport', 'HN')
+    into airport (airport_id, airport_fullname, country_id) values ('KWJ', 'Gwangju Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('ZFU', 'Unifly Heliport', 'PY')
+    into airport (airport_id, airport_fullname, country_id) values ('AIR', 'Aripuanã Airport', 'ES')
+    into airport (airport_id, airport_fullname, country_id) values ('YBO', 'Bob Quinn Lake Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('MEX', 'Licenciado Benito Juarez International Airport', 'MX')
+    into airport (airport_id, airport_fullname, country_id) values ('VNT', 'Ventspils International Airport', 'YE')
+    into airport (airport_id, airport_fullname, country_id) values ('KNR', 'Jam Airport', 'UA')
+    into airport (airport_id, airport_fullname, country_id) values ('PHF', 'Newport News Williamsburg International Airport', 'MK')
+    into airport (airport_id, airport_fullname, country_id) values ('CAB', 'Cabinda Airport', 'FI')
+    into airport (airport_id, airport_fullname, country_id) values ('YFB', 'Iqaluit Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('SZZ', 'Szczecin-Goleniów "Solidarność" Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('CTQ', 'Santa Vitória do Palmar Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('MAX', 'Ouro Sogui Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('NTG', 'Nantong Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('RAP', 'Rapid City Regional Airport', 'MX')
+    into airport (airport_id, airport_fullname, country_id) values ('DRV', 'Dharavandhoo Airport', 'SE')
+    into airport (airport_id, airport_fullname, country_id) values ('SOL', 'Solomon State Field', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('PRX', 'Cox Field', 'BR')
+    into airport (airport_id, airport_fullname, country_id) values ('MGT', 'Milingimbi Airport', 'WS')
+    into airport (airport_id, airport_fullname, country_id) values ('MXR', 'Myrhorod Air Base', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('ADS', 'Addison Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('RAV', 'Cravo Norte Airport', 'BG')
+    into airport (airport_id, airport_fullname, country_id) values ('WMT', 'Zunyi Maotai Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('KHW', 'Khwai River Lodge Airport', 'PE')
+    into airport (airport_id, airport_fullname, country_id) values ('RCQ', 'Reconquista Airport', 'SE')
+    into airport (airport_id, airport_fullname, country_id) values ('XBE', 'Bearskin Lake Airport', 'NG')
+    into airport (airport_id, airport_fullname, country_id) values ('KRA', 'Kerang Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('UYL', 'Nyala Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('SXQ', 'Soldotna Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('TAB', 'Tobago-Crown Point Airport', 'VN')
+    into airport (airport_id, airport_fullname, country_id) values ('ZSA', 'San Salvador Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('WAO', 'Wabo Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('ALY', 'El Nouzha Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('WVN', 'Wilhelmshaven-Mariensiel Airport', 'JP')
+    into airport (airport_id, airport_fullname, country_id) values ('EJA', 'Yariguíes Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('TIO', 'Tilin Airport', 'XK')
+    into airport (airport_id, airport_fullname, country_id) values ('BOM', 'Chhatrapati Shivaji International Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('KCD', 'Kamur Airport', 'TN')
+    into airport (airport_id, airport_fullname, country_id) values ('YYY', 'Mont Joli Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('AXA', 'Clayton J Lloyd International Airport', 'PL')
+    into airport (airport_id, airport_fullname, country_id) values ('HND', 'Tokyo Haneda International Airport', 'QA')
+    into airport (airport_id, airport_fullname, country_id) values ('DNV', 'Vermilion Regional Airport', 'GR')
+    into airport (airport_id, airport_fullname, country_id) values ('FDO', 'San Fernando Airport', 'PE')
+    into airport (airport_id, airport_fullname, country_id) values ('CXM', 'Camaxilo Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('LCB', 'Pontes e Lacerda Airport', 'BR')
+    into airport (airport_id, airport_fullname, country_id) values ('ZNZ', 'Abeid Amani Karume International Airport', 'TZ')
+    into airport (airport_id, airport_fullname, country_id) values ('ZZV', 'Zanesville Municipal Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('EPS', 'Samana El Portillo Airport', 'FI')
+    into airport (airport_id, airport_fullname, country_id) values ('XJD', 'Al Udeid Air Base', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('KDY', 'Typliy Klyuch Airport', 'PT')
+    into airport (airport_id, airport_fullname, country_id) values ('URR', 'Urrao Airport', 'CO')
+    into airport (airport_id, airport_fullname, country_id) values ('YKZ', 'Buttonville Municipal Airport', 'MX')
+    into airport (airport_id, airport_fullname, country_id) values ('AYZ', 'Zahn''s Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('TKN', 'Tokunoshima Airport', 'BR')
+    into airport (airport_id, airport_fullname, country_id) values ('GIC', 'Boigu Airport', 'FI')
+    into airport (airport_id, airport_fullname, country_id) values ('ABZ', 'Aberdeen Dyce Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('MXL', 'General Rodolfo Sánchez Taboada International Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('JBK', 'Berkley Municipal Heliport', 'PT')
+    into airport (airport_id, airport_fullname, country_id) values ('YHD', 'Dryden Regional Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('OHR', 'Wyk auf Föhr Airport', 'IT')
+    into airport (airport_id, airport_fullname, country_id) values ('HNI', 'Heiweni Airport', 'BF')
+    into airport (airport_id, airport_fullname, country_id) values ('PNN', 'Princeton Municipal Airport', 'TZ')
+    into airport (airport_id, airport_fullname, country_id) values ('YPD', 'Parry Sound Area Municipal Airport', 'PL')
+    into airport (airport_id, airport_fullname, country_id) values ('OME', 'Nome Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('DEB', 'Debrecen International Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('CBY', 'Canobie Airport', 'SI')
+    into airport (airport_id, airport_fullname, country_id) values ('MCJ', 'Jorge Isaac Airport', 'ZA')
+    into airport (airport_id, airport_fullname, country_id) values ('UGC', 'Urgench Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('BKR', 'Bokoro Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('JED', 'King Abdulaziz International Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('LUT', 'New Laura Airport', 'FR')
+    into airport (airport_id, airport_fullname, country_id) values ('KTU', 'Kota Airport', 'SE')
+    into airport (airport_id, airport_fullname, country_id) values ('SCU', 'Antonio Maceo International Airport', 'CA')
+    into airport (airport_id, airport_fullname, country_id) values ('JWA', 'Jwaneng Airport', 'US')
+    into airport (airport_id, airport_fullname, country_id) values ('BZM', 'Bemolanga Airport', 'MX')
+    into airport (airport_id, airport_fullname, country_id) values ('SLH', 'Sola Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('YYE', 'Fort Nelson Airport', 'HN')
+    into airport (airport_id, airport_fullname, country_id) values ('BUX', 'Bunia Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('QRC', 'De La Independencia Airport', 'NO')
+    into airport (airport_id, airport_fullname, country_id) values ('DRK', 'Drake Bay Airport', 'GH')
+    into airport (airport_id, airport_fullname, country_id) values ('RJB', 'Rajbiraj Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('FMU', 'Florence Municipal Airport', 'ZA')
+    into airport (airport_id, airport_fullname, country_id) values ('GRL', 'Garasa Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('ISO', 'Kinston Regional Jetport At Stallings Field', 'AR')
+    into airport (airport_id, airport_fullname, country_id) values ('LLV', 'Lüliang Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('BUY', 'Bunbury Airport', 'VE')
+    into airport (airport_id, airport_fullname, country_id) values ('CKC', 'Cherkasy International Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('AUF', 'Auxerre-Branches Airport', 'PL')
+    into airport (airport_id, airport_fullname, country_id) values ('OIM', 'Oshima Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('ICC', 'Andrés Miguel Salazar Marcano Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('LXN', 'Jim Kelly Field', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('ARC', 'Arctic Village Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('NHA', 'Nha Trang Air Base', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('LOC', 'Lock Airport', 'RS')
+    into airport (airport_id, airport_fullname, country_id) values ('AIV', 'George Downer Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('CJJ', 'Cheongju International Airport/Cheongju Air Base (K-59/G-513)', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('LWH', 'Lawn Hill Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('CLG', 'Coalinga Airport', 'PL')
+    into airport (airport_id, airport_fullname, country_id) values ('RMU', 'Región de Murcia International Airport', 'FR')
+    into airport (airport_id, airport_fullname, country_id) values ('VBY', 'Visby Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('PBM', 'Johan Adolf Pengel International Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('PKW', 'Selebi Phikwe Airport', 'TN')
+    into airport (airport_id, airport_fullname, country_id) values ('QBC', 'Bella Coola Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('SPC', 'La Palma Airport', 'GT')
+    into airport (airport_id, airport_fullname, country_id) values ('MFQ', 'Maradi Airport', 'PL')
+    into airport (airport_id, airport_fullname, country_id) values ('KPY', 'Port Bailey Seaplane Base', 'PL')
+    into airport (airport_id, airport_fullname, country_id) values ('LEK', 'Tata Airport', 'IE')
+    into airport (airport_id, airport_fullname, country_id) values ('YAL', 'Alert Bay Airport', 'JP')
+    into airport (airport_id, airport_fullname, country_id) values ('KCS', 'Kings Creek Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('SGN', 'Tan Son Nhat International Airport', 'MN')
+    into airport (airport_id, airport_fullname, country_id) values ('KTE', 'Kerteh Airport', 'DO')
+    into airport (airport_id, airport_fullname, country_id) values ('HTI', 'Hamilton Island Airport', 'MT')
+    into airport (airport_id, airport_fullname, country_id) values ('OLJ', 'North West Santo Airport', 'PL')
+    into airport (airport_id, airport_fullname, country_id) values ('BID', 'Block Island State Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('RDZ', 'Rodez-Marcillac Airport', 'SJ')
+    into airport (airport_id, airport_fullname, country_id) values ('WAV', 'Wave Hill Airport', 'PT')
+    into airport (airport_id, airport_fullname, country_id) values ('MQM', 'Mardin Airport', 'BG')
+    into airport (airport_id, airport_fullname, country_id) values ('USL', 'Useless Loop Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('PRH', 'Phrae Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('ESR', 'Ricardo García Posada Airport', 'PT')
+    into airport (airport_id, airport_fullname, country_id) values ('CAB', 'Cabinda Airport', 'PL')
+    into airport (airport_id, airport_fullname, country_id) values ('GCN', 'Grand Canyon National Park Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('CAK', 'Akron Canton Regional Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('UBB', 'Mabuiag Island Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('GBK', 'Gbangbatok Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('NAL', 'Nalchik Airport', 'RS')
+    into airport (airport_id, airport_fullname, country_id) values ('STK', 'Sterling Municipal Airport', 'JP')
+    into airport (airport_id, airport_fullname, country_id) values ('BYM', 'Carlos Manuel de Cespedes Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('SUY', 'Suntar Airport', 'JP')
+    into airport (airport_id, airport_fullname, country_id) values ('CXR', 'Cam Ranh Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('NLK', 'Norfolk Island International Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('AMS', 'Amsterdam Airport Schiphol', 'KZ')
+    into airport (airport_id, airport_fullname, country_id) values ('XTO', 'Taroom Airport', 'GB')
+    into airport (airport_id, airport_fullname, country_id) values ('WPB', 'Port Bergé Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('ALA', 'Almaty Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('LMD', 'Los Menucos Airport', 'SI')
+    into airport (airport_id, airport_fullname, country_id) values ('SFL', 'São Filipe Airport', 'BR')
+    into airport (airport_id, airport_fullname, country_id) values ('BKQ', 'Blackall Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('AZD', 'Shahid Sadooghi Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('VLS', 'Valesdir Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('PQC', 'Phu Quoc International Airport', 'CO')
+    into airport (airport_id, airport_fullname, country_id) values ('JUI', 'Juist Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('EIE', 'Yeniseysk Airport', 'PT')
+    into airport (airport_id, airport_fullname, country_id) values ('OTI', 'Pitu Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('MQD', 'Maquinchao Airport', 'AZ')
+    into airport (airport_id, airport_fullname, country_id) values ('MQS', 'Mustique Airport', 'KM')
+    into airport (airport_id, airport_fullname, country_id) values ('KPV', 'Perryville Airport', 'SE')
+    into airport (airport_id, airport_fullname, country_id) values ('DCF', 'Canefield Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('GZM', 'Xewkija Heliport', 'NL')
+    into airport (airport_id, airport_fullname, country_id) values ('BLB', 'Panama Pacific International Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('GFF', 'Griffith Airport', 'NG')
+    into airport (airport_id, airport_fullname, country_id) values ('ANC', 'Ted Stevens Anchorage International Airport', 'PL')
+    into airport (airport_id, airport_fullname, country_id) values ('CUY', 'Cue Airport', 'UA')
+    into airport (airport_id, airport_fullname, country_id) values ('FBS', 'Friday Harbor Seaplane Base', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('YCG', 'Castlegar/West Kootenay Regional Airport', 'TH')
+    into airport (airport_id, airport_fullname, country_id) values ('SIV', 'Sullivan County Airport', 'PL')
+    into airport (airport_id, airport_fullname, country_id) values ('CVT', 'Coventry Airport', 'CR')
+    into airport (airport_id, airport_fullname, country_id) values ('BFE', 'Bielefeld Airport', 'MG')
+    into airport (airport_id, airport_fullname, country_id) values ('LAS', 'McCarran International Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('ABQ', 'Albuquerque International Sunport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('GHK', 'Gush Katif Airport', 'CO')
+    into airport (airport_id, airport_fullname, country_id) values ('SGW', 'Saginaw Seaplane Base', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('LHP', 'Lehu Airport', 'UG')
+    into airport (airport_id, airport_fullname, country_id) values ('UVA', 'Garner Field', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('CLC', 'Clear Lake Metroport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('ESU', 'Mogador Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('XME', 'Maubeuge-Élesmes Airport', 'RS')
+    into airport (airport_id, airport_fullname, country_id) values ('UCZ', 'Uchiza Airport', 'US')
+    into airport (airport_id, airport_fullname, country_id) values ('0', 'Monte Santo de Minas Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('LKN', 'Leknes Airport', 'CU')
+    into airport (airport_id, airport_fullname, country_id) values ('RET', 'Røst Airport', 'TN')
+    into airport (airport_id, airport_fullname, country_id) values ('BHM', 'Birmingham-Shuttlesworth International Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('JTI', 'Jataí Airport', 'AF')
+    into airport (airport_id, airport_fullname, country_id) values ('OGE', 'Ogeranang Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('XLU', 'Leo Airport', 'GW')
+    into airport (airport_id, airport_fullname, country_id) values ('JUN', 'Jundah Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('HCA', 'Big Spring Mc Mahon-Wrinkle Airport', 'UG')
+    into airport (airport_id, airport_fullname, country_id) values ('XEN', 'Xingcheng Air Base', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('GOJ', 'Nizhny Novgorod Strigino International Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('FBD', 'Fayzabad Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('TCP', 'Taba International Airport', 'VE')
+    into airport (airport_id, airport_fullname, country_id) values ('TUP', 'Tupelo Regional Airport', 'CI')
+    into airport (airport_id, airport_fullname, country_id) values ('EYR', 'Yerington Municipal Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('IND', 'Indianapolis International Airport', 'US')
+    into airport (airport_id, airport_fullname, country_id) values ('PNS', 'Pensacola Regional Airport', 'VN')
+    into airport (airport_id, airport_fullname, country_id) values ('BDG', 'Blanding Municipal Airport', 'PA')
+    into airport (airport_id, airport_fullname, country_id) values ('XIQ', 'Ilimanaq Heliport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('YKN', 'Chan Gurney Municipal Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('FYU', 'Fort Yukon Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('HER', 'Heraklion International Nikos Kazantzakis Airport', 'US')
+    into airport (airport_id, airport_fullname, country_id) values ('AHT', 'Amchitka Army Airfield', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('SJF', 'Cruz Bay Seaplane Base', 'CM')
+    into airport (airport_id, airport_fullname, country_id) values ('TLH', 'Tallahassee Regional Airport', 'MU')
+    into airport (airport_id, airport_fullname, country_id) values ('SAB', 'Juancho E. Yrausquin Airport', 'IR')
+    into airport (airport_id, airport_fullname, country_id) values ('BBR', 'Baillif Airport', 'US')
+    into airport (airport_id, airport_fullname, country_id) values ('GGD', 'Gregory Downs Airport', 'AF')
+    into airport (airport_id, airport_fullname, country_id) values ('KKY', 'Kilkenny Airport', 'MG')
+    into airport (airport_id, airport_fullname, country_id) values ('JAM', 'Bezmer Air Base', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('FAM', 'Farmington Regional Airport', 'FR')
+    into airport (airport_id, airport_fullname, country_id) values ('LCV', 'Lucca-Tassignano Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('ACZ', 'Zabol Airport', 'US')
+    into airport (airport_id, airport_fullname, country_id) values ('AYU', 'Aiyura Airport', 'PL')
+    into airport (airport_id, airport_fullname, country_id) values ('ECR', 'El Charco Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('LPJ', 'Armando Schwarck Airport', 'FI')
+    into airport (airport_id, airport_fullname, country_id) values ('FWL', 'Farewell Airport', 'MK')
+    into airport (airport_id, airport_fullname, country_id) values ('DAN', 'Danville Regional Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('NAU', 'Napuka Island Airport', 'GT')
+    into airport (airport_id, airport_fullname, country_id) values ('HKN', 'Kimbe Airport', 'SE')
+    into airport (airport_id, airport_fullname, country_id) values ('ABT', 'Al Baha Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('SJH', 'San Juan Del César Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('WTD', 'West End Airport', 'PS')
+    into airport (airport_id, airport_fullname, country_id) values ('KUX', 'Kuyol Airport', 'RS')
+    into airport (airport_id, airport_fullname, country_id) values ('DNV', 'Vermilion Regional Airport', 'MT')
+    into airport (airport_id, airport_fullname, country_id) values ('RMB', 'Buraimi Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('YEI', 'Bursa Yenişehir Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('LBF', 'North Platte Regional Airport Lee Bird Field', 'GB')
+    into airport (airport_id, airport_fullname, country_id) values ('TZC', 'Tuscola Area Airport', 'GR')
+    into airport (airport_id, airport_fullname, country_id) values ('MNK', 'Maiana Airport', 'IL')
+    into airport (airport_id, airport_fullname, country_id) values ('MNQ', 'Monto Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('GBM', 'Garbaharey Airport', 'MN')
+    into airport (airport_id, airport_fullname, country_id) values ('IUS', 'Inus Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('PMW', 'Brigadeiro Lysias Rodrigues Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('0', 'Veranópolis Airport', 'UA')
+    into airport (airport_id, airport_fullname, country_id) values ('SYA', 'Eareckson Air Station', 'CO')
+    into airport (airport_id, airport_fullname, country_id) values ('COM', 'Coleman Municipal Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('OAM', 'Oamaru Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('TWU', 'Tawau Airport', 'BA')
+    into airport (airport_id, airport_fullname, country_id) values ('CRV', 'Crotone Airport', 'PT')
+    into airport (airport_id, airport_fullname, country_id) values ('JTC', 'Bauru - Arealva Airport', 'GR')
+    into airport (airport_id, airport_fullname, country_id) values ('ZRM', 'Sarmi Airport', 'BG')
+    into airport (airport_id, airport_fullname, country_id) values ('JGD', 'Jiagedaqi Airport', 'SO')
+    into airport (airport_id, airport_fullname, country_id) values ('HBT', 'Hambantota Seaplane Base', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('SPB', 'Charlotte Amalie Harbor Seaplane Base', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('BHE', 'Woodbourne Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('LAG', 'La Guaira Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('ACO', 'Ascona Airport', 'PE')
+    into airport (airport_id, airport_fullname, country_id) values ('UKS', 'Belbek Airport', 'JP')
+    into airport (airport_id, airport_fullname, country_id) values ('MPL', 'Montpellier-Méditerranée Airport', 'BR')
+    into airport (airport_id, airport_fullname, country_id) values ('ECG', 'Elizabeth City Regional Airport & Coast Guard Air Station', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('0', 'Garça Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('DHN', 'Dothan Regional Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('KGY', 'Kingaroy Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('UCK', 'Lutsk Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('WUZ', 'Wuzhou Changzhoudao Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('ECP', 'Northwest Florida Beaches International Airport', 'NA')
+    into airport (airport_id, airport_fullname, country_id) values ('DRE', 'Drummond Island Airport', 'HU')
+    into airport (airport_id, airport_fullname, country_id) values ('NYR', 'Nyurba Airport', 'MX')
+    into airport (airport_id, airport_fullname, country_id) values ('DYM', 'Diamantina Lakes Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('YPG', 'Southport Airport', 'SE')
+    into airport (airport_id, airport_fullname, country_id) values ('MTQ', 'Mitchell Airport', 'ES')
+    into airport (airport_id, airport_fullname, country_id) values ('HAR', 'Capital City Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('OHD', 'Ohrid St. Paul the Apostle Airport', 'FI')
+    into airport (airport_id, airport_fullname, country_id) values ('YXN', 'Whale Cove Airport', 'PK')
+    into airport (airport_id, airport_fullname, country_id) values ('WMI', 'Modlin Airport', 'EE')
+    into airport (airport_id, airport_fullname, country_id) values ('ALT', 'Alenquer Airport', 'RW')
+    into airport (airport_id, airport_fullname, country_id) values ('AXR', 'Arutua Airport', 'US')
+    into airport (airport_id, airport_fullname, country_id) values ('MGJ', 'Orange County Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('EYS', 'Eliye Springs Airport', 'HR')
+    into airport (airport_id, airport_fullname, country_id) values ('SOZ', 'Solenzara (BA 126) Air Base', 'JP')
+    into airport (airport_id, airport_fullname, country_id) values ('WWD', 'Cape May County Airport', 'IL')
+    into airport (airport_id, airport_fullname, country_id) values ('BXW', 'Bawean Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('WUZ', 'Wuzhou Changzhoudao Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('LYR', 'Svalbard Airport, Longyear', 'PL')
+    into airport (airport_id, airport_fullname, country_id) values ('PUT', 'Sri Sathya Sai Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('TXG', 'Taichung Airport', 'ZA')
+    into airport (airport_id, airport_fullname, country_id) values ('GRQ', 'Eelde Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('NOD', 'Norden-Norddeich Airport', 'FI')
+    into airport (airport_id, airport_fullname, country_id) values ('WSR', 'Wasior Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('EYS', 'Eliye Springs Airport', 'UA')
+    into airport (airport_id, airport_fullname, country_id) values ('PVI', 'Paranavaí Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('PAD', 'Paderborn Lippstadt Airport', 'UZ')
+    into airport (airport_id, airport_fullname, country_id) values ('NKB', 'Noonkanbah Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('LHA', 'Lahr Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('GIC', 'Boigu Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('HAR', 'Capital City Airport', 'PY')
+    into airport (airport_id, airport_fullname, country_id) values ('MNA', 'Melangguane Airport', 'UA')
+    into airport (airport_id, airport_fullname, country_id) values ('SYF', 'Silva Bay Seaplane Base', 'FJ')
+    into airport (airport_id, airport_fullname, country_id) values ('ORG', 'Zorg en Hoop Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('CWT', 'Cowra Airport', 'CA')
+    into airport (airport_id, airport_fullname, country_id) values ('RDO', 'Radom Airport', 'CZ')
+    into airport (airport_id, airport_fullname, country_id) values ('FYM', 'Fayetteville Municipal Airport', 'AR')
+    into airport (airport_id, airport_fullname, country_id) values ('HTM', 'Khatgal Airport', 'CO')
+    into airport (airport_id, airport_fullname, country_id) values ('NOC', 'Ireland West Knock Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('ISL', 'Atatürk International Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('VPY', 'Chimoio Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('GLU', 'Gelephu Airport', 'SE')
+    into airport (airport_id, airport_fullname, country_id) values ('ZJN', 'Swan River Airport', 'AL')
+    into airport (airport_id, airport_fullname, country_id) values ('RWI', 'Rocky Mount Wilson Regional Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('INT', 'Smith Reynolds Airport', 'UA')
+    into airport (airport_id, airport_fullname, country_id) values ('RTM', 'Rotterdam The Hague Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('PLR', 'St Clair County Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('VLI', 'Bauerfield International Airport', 'US')
+    into airport (airport_id, airport_fullname, country_id) values ('MWZ', 'Mwanza Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('FRJ', 'Fréjus Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('MCF', 'Mac Dill Air Force Base', 'BR')
+    into airport (airport_id, airport_fullname, country_id) values ('OMY', 'Preah Vinhear Airport', 'BZ')
+    into airport (airport_id, airport_fullname, country_id) values ('RLK', 'Bayannur Tianjitai Airport', 'TH')
+    into airport (airport_id, airport_fullname, country_id) values ('AOJ', 'Aomori Airport', 'FR')
+    into airport (airport_id, airport_fullname, country_id) values ('FGD', 'Fderik Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('HLP', 'Halim Perdanakusuma International Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('CLO', 'Alfonso Bonilla Aragon International Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('AGI', 'Wageningen Airstrip', 'VN')
+    into airport (airport_id, airport_fullname, country_id) values ('UIP', 'Quimper-Cornouaille Airport', 'ZM')
+    into airport (airport_id, airport_fullname, country_id) values ('RPX', 'Roundup Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('SEV', 'Sievierodonetsk Airport', 'UZ')
+    into airport (airport_id, airport_fullname, country_id) values ('KGS', 'Kos Airport', 'BO')
+    into airport (airport_id, airport_fullname, country_id) values ('IRO', 'Birao Airport', 'MN')
+    into airport (airport_id, airport_fullname, country_id) values ('KAM', 'Kamaran Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('CMT', 'New Cametá Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('AFR', 'Afore Airstrip', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('HLH', 'Ulanhot Airport', 'PE')
+    into airport (airport_id, airport_fullname, country_id) values ('CMC', 'Camocim Airport', 'MA')
+    into airport (airport_id, airport_fullname, country_id) values ('PKA', 'Napaskiak Airport', 'NG')
+    into airport (airport_id, airport_fullname, country_id) values ('EVX', 'Évreux-Fauville (BA 105) Air Base', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('ESI', 'Espinosa Airport', 'BR')
+    into airport (airport_id, airport_fullname, country_id) values ('JJM', 'Mulika Lodge Airport', 'MX')
+    into airport (airport_id, airport_fullname, country_id) values ('KTL', 'Kitale Airport', 'ES')
+    into airport (airport_id, airport_fullname, country_id) values ('RYO', '28 de Noviembre Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('YTH', 'Thompson Airport', 'BD')
+    into airport (airport_id, airport_fullname, country_id) values ('NTB', 'Notodden Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('HEA', 'Herat Airport', 'PL')
+    into airport (airport_id, airport_fullname, country_id) values ('NHK', 'Patuxent River Naval Air Station (Trapnell Field)', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('MAP', 'Mamai Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('BSA', 'Bosaso Airport', 'US')
+    into airport (airport_id, airport_fullname, country_id) values ('KJI', 'Kanas Airport', 'KM')
+    into airport (airport_id, airport_fullname, country_id) values ('MFT', 'Machu Pichu Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('SRM', 'Sandringham Airport', 'BR')
+    into airport (airport_id, airport_fullname, country_id) values ('EEN', 'Dillant Hopkins Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('AYN', 'Anyang Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('ZOF', 'Ocean Falls Seaplane Base', 'DO')
+    into airport (airport_id, airport_fullname, country_id) values ('VUP', 'Alfonso López Pumarejo Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('HCM', 'Eil Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('YYM', 'Cowley Airport', 'AF')
+    into airport (airport_id, airport_fullname, country_id) values ('LAZ', 'Bom Jesus da Lapa Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('CHH', 'Chachapoyas Airport', 'PL')
+    into airport (airport_id, airport_fullname, country_id) values ('SWS', 'Swansea Airport', 'BD')
+    into airport (airport_id, airport_fullname, country_id) values ('PIA', 'General Wayne A. Downing Peoria International Airport', 'PT')
+    into airport (airport_id, airport_fullname, country_id) values ('TUD', 'Tambacounda Airport', 'VE')
+    into airport (airport_id, airport_fullname, country_id) values ('JEG', 'Aasiaat Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('JPA', 'Presidente Castro Pinto International Airport', 'MA')
+    into airport (airport_id, airport_fullname, country_id) values ('BHX', 'Birmingham International Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('GFF', 'Griffith Airport', 'SE')
+    into airport (airport_id, airport_fullname, country_id) values ('TRQ', 'Tarauacá Airport', 'RS')
+    into airport (airport_id, airport_fullname, country_id) values ('GOM', 'Goma International Airport', 'UA')
+    into airport (airport_id, airport_fullname, country_id) values ('DCY', 'Daocheng Yading Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('BOW', 'Bartow Municipal Airport', 'VN')
+    into airport (airport_id, airport_fullname, country_id) values ('SNR', 'Saint-Nazaire-Montoir Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('AYT', 'Antalya International Airport', 'PL')
+    into airport (airport_id, airport_fullname, country_id) values ('GVE', 'Gordonsville Municipal Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('BIM', 'South Bimini Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('RUN', 'Roland Garros Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('YBE', 'Uranium City Airport', 'BR')
+    into airport (airport_id, airport_fullname, country_id) values ('KOE', 'El Tari Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('EWN', 'Coastal Carolina Regional Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('CED', 'Ceduna Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('SCS', 'Scatsta Airport', 'UA')
+    into airport (airport_id, airport_fullname, country_id) values ('ACR', 'Araracuara Airport', 'PT')
+    into airport (airport_id, airport_fullname, country_id) values ('YWM', 'Williams Harbour Airport', 'SE')
+    into airport (airport_id, airport_fullname, country_id) values ('NDN', 'Nadunumu Airport', 'FI')
+    into airport (airport_id, airport_fullname, country_id) values ('BRS', 'Bristol Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('POD', 'Podor Airport', 'JP')
+    into airport (airport_id, airport_fullname, country_id) values ('GFR', 'Granville Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('LDU', 'Lahad Datu Airport', 'PT')
+    into airport (airport_id, airport_fullname, country_id) values ('WPM', 'Wipim Airport', 'NO')
+    into airport (airport_id, airport_fullname, country_id) values ('AHH', 'Amery Municipal Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('KGI', 'Kalgoorlie Boulder Airport', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('MIG', 'Mianyang Airport', 'CA')
+    into airport (airport_id, airport_fullname, country_id) values ('CME', 'Ciudad del Carmen International Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('PQC', 'Phu Quoc International Airport', 'PT')
+    into airport (airport_id, airport_fullname, country_id) values ('JSU', 'Maniitsoq Airport', 'MG')
+    into airport (airport_id, airport_fullname, country_id) values ('BID', 'Block Island State Airport', 'NG')
+    into airport (airport_id, airport_fullname, country_id) values ('TBF', 'Tabiteuea North Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('SKT', 'Sialkot Airport', 'US')
+    into airport (airport_id, airport_fullname, country_id) values ('UGB', 'Ugashik Bay Airport', 'FR')
+    into airport (airport_id, airport_fullname, country_id) values ('FSU', 'Fort Sumner Municipal Airport', 'AR')
+    into airport (airport_id, airport_fullname, country_id) values ('SQI', 'Whiteside County Airport-Joseph H Bittorf Field', 'CZ')
+    into airport (airport_id, airport_fullname, country_id) values ('BYA', 'Boundary Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('LCM', 'La Cumbre Airport', 'JP')
+    into airport (airport_id, airport_fullname, country_id) values ('OTH', 'Southwest Oregon Regional Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('BVB', 'Atlas Brasil Cantanhede Airport', 'TH')
+    into airport (airport_id, airport_fullname, country_id) values ('YCA', 'Courtenay Airpark', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('ULO', 'Ulaangom Airport', 'IE')
+    into airport (airport_id, airport_fullname, country_id) values ('SRQ', 'Sarasota Bradenton International Airport', 'CU')
+    into airport (airport_id, airport_fullname, country_id) values ('MUT', 'Muscatine Municipal Airport', 'SE')
+    into airport (airport_id, airport_fullname, country_id) values ('MUF', 'Muting Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('PDB', 'Pedro Bay Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('PIF', 'Pingtung North Airport', 'ME')
+    into airport (airport_id, airport_fullname, country_id) values ('UTN', 'Pierre Van Ryneveld Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('RHE', 'Reims-Champagne (BA 112) Air Base', 'RU')
+    into airport (airport_id, airport_fullname, country_id) values ('LAC', 'Layang-Layang Airport', 'PL')
+    into airport (airport_id, airport_fullname, country_id) values ('PCB', 'Pondok Cabe Air Base', 'FR')
+    into airport (airport_id, airport_fullname, country_id) values ('AJU', 'Santa Maria Airport', 'BR')
+    into airport (airport_id, airport_fullname, country_id) values ('YFG', 'Fontanges Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('KGF', 'Sary-Arka Airport', 'EC')
+    into airport (airport_id, airport_fullname, country_id) values ('DFI', 'Defiance Memorial Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('PTZ', 'Rio Amazonas Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('UTT', 'K. D. Matanzima Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('CBE', 'Greater Cumberland Regional Airport', 'US')
+    into airport (airport_id, airport_fullname, country_id) values ('CCG', 'Crane County Airport', 'CZ')
+    into airport (airport_id, airport_fullname, country_id) values ('LME', 'Le Mans-Arnage Airport', 'SE')
+    into airport (airport_id, airport_fullname, country_id) values ('HWA', 'Hawabango Airport', 'RS')
+    into airport (airport_id, airport_fullname, country_id) values ('GFO', 'Bartica A Airport', 'BR')
+    into airport (airport_id, airport_fullname, country_id) values ('LUZ', 'Lublin Airport', 'UA')
+    into airport (airport_id, airport_fullname, country_id) values ('GZW', 'Qazvin Airport', 'MG')
+    into airport (airport_id, airport_fullname, country_id) values ('SMA', 'Santa Maria Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('ROY', 'Rio Mayo Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('VSF', 'Hartness State (Springfield) Airport', 'CZ')
+    into airport (airport_id, airport_fullname, country_id) values ('EBW', 'Ebolowa Airport', 'ID')
+    into airport (airport_id, airport_fullname, country_id) values ('GRP', 'Gurupi Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('AUH', 'Abu Dhabi International Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('QLP', 'Sarzana-Luni Air Base', 'PT')
+    into airport (airport_id, airport_fullname, country_id) values ('ERB', 'Ernabella Airport', 'FR')
+    into airport (airport_id, airport_fullname, country_id) values ('VTU', 'Hermanos Ameijeiras Airport', 'SE')
+    into airport (airport_id, airport_fullname, country_id) values ('KCR', 'Colorado Creek Airport', 'CN')
+    into airport (airport_id, airport_fullname, country_id) values ('AXU', 'Axum Airport', 'MZ')
+    into airport (airport_id, airport_fullname, country_id) values ('AOC', 'Altenburg-Nobitz Airport', 'GR')
+    into airport (airport_id, airport_fullname, country_id) values ('VAM', 'Villa Airport', 'PT')
+    into airport (airport_id, airport_fullname, country_id) values ('AVA', 'Anshun Huangguoshu Airport', 'AR')
+    into airport (airport_id, airport_fullname, country_id) values ('IXB', 'Bagdogra Airport', 'PH')
+    into airport (airport_id, airport_fullname, country_id) values ('XCH', 'Christmas Island Airport', 'MK')
+    into airport (airport_id, airport_fullname, country_id) values ('YHD', 'Dryden Regional Airport', 'BR')
+    into airport (airport_id, airport_fullname, country_id) values ('CVS', 'Cannon Air Force Base', 'FI')
+SELECT 1 FROM DUAL;
