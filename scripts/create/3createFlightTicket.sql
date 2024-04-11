@@ -1,5 +1,5 @@
 CREATE TABLE FLIGHT_TICKET(
-    flight_ticket_id    VARCHAR(15)  PRIMARY KEY,
+    flight_ticket_id    VARCHAR(13)  PRIMARY KEY,
     account_id          NUMBER       NOT NULL  REFERENCES ACCOUNT(account_id),
     payment_id          VARCHAR(10)  NOT NULL  REFERENCES PAYMENT(payment_id),
     datetime_placed     TIMESTAMP    NOT NULL,
