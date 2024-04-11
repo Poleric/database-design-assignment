@@ -1,5 +1,5 @@
 CREATE TABLE FLIGHT (
-    flight_id             VARCHAR(10)  PRIMARY KEY ,
+    flight_id             VARCHAR(7)  PRIMARY KEY ,
     route_id              VARCHAR(7)   NOT NULL REFERENCES ROUTE(route_id),
     aircraft_id           VARCHAR(6)   NOT NULL REFERENCES AIRCRAFT(aircraft_id),
     departure_datetime    TIMESTAMP    NOT NULL,
