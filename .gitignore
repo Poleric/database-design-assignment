@@ -6,6 +6,6 @@
 
 # generated files
 create_all.sql
-create_trigger_all.sqll
+create_trigger_all.sql
 insert_all.sql
 run.sql
