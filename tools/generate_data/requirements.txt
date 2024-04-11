@@ -1,0 +1,8 @@
+oracledb
+numpy
+random-address
+requests
+bcrypt
+jupyterlab
+beautifulsoup4
+lxml
