@@ -9,3 +9,4 @@ INSERT ALL
     INTO MAINTENANCE_TYPE (maintenance_type_id, maintenance_type_name, maintenance_type_description) VALUES ('CBSD','Condition-Based Maintenance','Condition-based maintenance involves monitoring the condition of specific components or systems using sensors and data analysis.')
     INTO MAINTENANCE_TYPE (maintenance_type_id, maintenance_type_name, maintenance_type_description) VALUES ('ONCO','On-Condition Maintenance','On-condition maintenance is performed when specific components or systems reach a predefined condition or when they exhibit signs of wear or deterioration.')
     INTO MAINTENANCE_TYPE (maintenance_type_id, maintenance_type_name, maintenance_type_description) VALUES ('MAUM','Modification and Upgrade Maintenance','These types of maintenance work together to ensure that aircraft remain in safe and airworthy condition throughout their operational life.')
+SELECT 1 FROM DUAL;
