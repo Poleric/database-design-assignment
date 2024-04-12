@@ -9,3 +9,4 @@ INSERT ALL
     INTO (transaction_id, employee_id) VALUES ('BP008','8')
     INTO (transaction_id, employee_id) VALUES ('BP009','9')
     INTO (transaction_id, employee_id) VALUES ('BP010','10')
+SELECT 1 FROM DUAL;

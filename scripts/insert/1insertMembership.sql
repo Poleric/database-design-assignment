@@ -98,3 +98,4 @@ INSERT ALL
     INTO (account_id, membership_type_id) VALUES ('312','BRNZ')
     INTO (account_id, membership_type_id) VALUES ('8','SILV')
     INTO (account_id, membership_type_id) VALUES ('927','BRNZ')
+SELECT 1 FROM DUAL;

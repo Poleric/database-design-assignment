@@ -99,3 +99,4 @@ INSERT ALL
     INTO (transaction_id) VALUES ('BP098')
     INTO (transaction_id) VALUES ('BP099')
     INTO (transaction_id) VALUES ('BP100')
+SELECT 1 FROM DUAL;
