@@ -198,3 +198,4 @@ INSERT ALL
     INTO (transaction_method_id) VALUES ('PYPL')
     INTO (transaction_method_id) VALUES ('BANK')
     INTO (transaction_method_id) VALUES ('CASH')
+SELECT 1 FROM DUAL;
