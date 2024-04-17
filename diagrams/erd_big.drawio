@@ -1,6 +1,6 @@
-<mxfile compressed="false" host="Electron" modified="2024-04-17T01:36:13.610Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.1.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="zITCvrvEy05UI1VnIuqo" version="24.1.0" type="device">
+<mxfile compressed="false" host="Electron" modified="2024-04-17T01:45:14.613Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.1.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="JpFJ3v4xSylKllPHbZmo" version="24.1.0" type="device">
   <diagram name="Page-1" id="Q6DCgMfbbjko9ryPCdgc">
-    <mxGraphModel dx="4606" dy="1683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="200" pageHeight="180" math="0" shadow="0">
+    <mxGraphModel dx="3269" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="200" pageHeight="180" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -740,7 +740,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="127" value="FlightCrewSchedule" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="-19.99999999999997" y="900" width="180" height="120" as="geometry" />
+          <mxGeometry x="-19.99999999999997" y="900" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="128" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="127" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -777,6 +777,32 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="136" value="CrewRoleID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="134" vertex="1">
+          <mxGeometry x="60" width="120" height="30" as="geometry">
+            <mxRectangle width="120" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gqaMFC7oZkX-4QQrr4y0-232" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="127">
+          <mxGeometry y="120" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gqaMFC7oZkX-4QQrr4y0-233" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="gqaMFC7oZkX-4QQrr4y0-232">
+          <mxGeometry width="60" height="30" as="geometry">
+            <mxRectangle width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gqaMFC7oZkX-4QQrr4y0-234" value="ClockInTime" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="gqaMFC7oZkX-4QQrr4y0-232">
+          <mxGeometry x="60" width="120" height="30" as="geometry">
+            <mxRectangle width="120" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gqaMFC7oZkX-4QQrr4y0-235" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="127">
+          <mxGeometry y="150" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gqaMFC7oZkX-4QQrr4y0-236" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="gqaMFC7oZkX-4QQrr4y0-235">
+          <mxGeometry width="60" height="30" as="geometry">
+            <mxRectangle width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gqaMFC7oZkX-4QQrr4y0-237" value="ClockOutTime" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="gqaMFC7oZkX-4QQrr4y0-235">
           <mxGeometry x="60" width="120" height="30" as="geometry">
             <mxRectangle width="120" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -2372,8 +2398,7 @@
             <mxPoint x="-1330.1799999999998" y="443.8800000000001" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-1370" y="805" />
-              <mxPoint x="-1370" y="400" />
-              <mxPoint x="-1332" y="400" />
+              <mxPoint x="-1370" y="407" />
               <mxPoint x="-1332" y="407" />
             </Array>
           </mxGeometry>
