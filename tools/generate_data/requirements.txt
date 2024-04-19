@@ -6,3 +6,4 @@ bcrypt
 jupyterlab
 beautifulsoup4
 lxml
+networkx
