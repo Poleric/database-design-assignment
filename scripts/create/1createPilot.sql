@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:08aaedf3af95c48045fa881c542e7eb55e319e8da5b16454c3bbcbdae6c19d53
-size 212
+CREATE TABLE PILOT (
+    pilot_id              VARCHAR(6)   PRIMARY KEY,
+    employee_id           NUMBER       NOT NULL UNIQUE REFERENCES EMPLOYEE(employee_id),
+    pilot_license_number  VARCHAR(10)  NOT NULL
+);

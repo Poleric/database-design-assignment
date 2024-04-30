@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:26ee3a4a8d8149e26b1cd61004b4c0d79c7758cf401a9882b13fc9ded6e4defc
-size 370
+CREATE TABLE MAINTENANCE_LOG(
+    maintenance_log_id       NUMBER        PRIMARY KEY,
+    aircraft_id              VARCHAR(6)   NOT NULL REFERENCES AIRCRAFT(aircraft_id),
+    maintenance_type_id      VARCHAR(4)    NOT NULL REFERENCES MAINTENANCE_TYPE(maintenance_type_id),
+    maintenance_datetime     TIMESTAMP     NOT NULL,
+    maintenance_description  VARCHAR(100)
+);

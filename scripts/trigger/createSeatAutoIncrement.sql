@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a3feb5b1ea23adac4231b9c45f9d449e567aacc9e4758f64669eb4016c23d6e8
-size 161
+CREATE OR REPLACE TRIGGER SEAT_ID_AUTO_INCREMENT
+    BEFORE INSERT ON SEAT
+    FOR EACH ROW
+BEGIN
+    :NEW.SEAT_ID := (:NEW.AIRCRAFT_ID || :NEW.LOCATION);
+END;
+/

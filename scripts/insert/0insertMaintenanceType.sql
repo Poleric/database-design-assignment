@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:84556fd122170d0a1fec0969fca2e3b8ea3d0d01da79bf6b64dcdc41f126ed19
-size 1088
+INSERT ALL
+    INTO MAINTENANCE_TYPE (maintenance_type_id, maintenance_type_name, maintenance_type_description) VALUES ('ACHK','A-Check','The A-check is a more comprehensive form of maintenance conducted at regular intervals, usually every 400 to 600 flight hours.')
+    INTO MAINTENANCE_TYPE (maintenance_type_id, maintenance_type_name, maintenance_type_description) VALUES ('BCHK','B-Check','The B-check is performed approximately every 6-8 months. It takes about 160-180 man-hours, depending on the aircraft, and is usually completed within 1–3 days at an airport hangar.')
+    INTO MAINTENANCE_TYPE (maintenance_type_id, maintenance_type_name, maintenance_type_description) VALUES ('CCHK','C-Check','The C-check is a more extensive maintenance event that occurs less frequently, typically every 18 to 24 months.')
+    INTO MAINTENANCE_TYPE (maintenance_type_id, maintenance_type_name, maintenance_type_description) VALUES ('DCHK','D-Check','The D-check, also known as a heavy maintenance visit, is the most comprehensive and time-consuming form of maintenance.')
+SELECT 1 FROM DUAL;

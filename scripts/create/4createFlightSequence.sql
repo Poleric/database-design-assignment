@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e0623eaa7682f1163c81b6de1fd5432d3580cd37d777390a0130b121f1cb2b02
-size 358
+CREATE TABLE FLIGHT_SEQUENCE (
+    flight_ticket_id  VARCHAR(13)  NOT NULL REFERENCES FLIGHT_TICKET(flight_ticket_id),
+    flight_id         NUMBER       NOT NULL REFERENCES FLIGHT(flight_id),
+    seat_id           VARCHAR(10)  NOT NULL,
+    flight_sequence   NUMBER       NOT NULL CHECK (flight_sequence > 0),
+    PRIMARY KEY(flight_ticket_id, flight_id)
+);

@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dacab7829a5b6c0e455a47ea95710ab6fa9e8eccd0cedcdc12b53c3285c96bae
-size 264
+CREATE TABLE AIRCRAFT (
+    aircraft_id        VARCHAR(6)  PRIMARY KEY,  -- https://en.wikipedia.org/wiki/Aircraft_registration
+    aircraft_model_id  VARCHAR(4)  NOT NULL REFERENCES AIRCRAFT_MODEL(aircraft_model_id),
+    purchase_date      DATE        NOT NULL
+);

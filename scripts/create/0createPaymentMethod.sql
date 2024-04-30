@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dab76822b996656bdea0b362b5a6cf73cfe021c1dd806f5247eabaa8457eed1a
-size 170
+CREATE TABLE PAYMENT_METHOD (
+    payment_method_id  VARCHAR(4)   PRIMARY KEY,
+    method_name        VARCHAR(30)  NOT NULL UNIQUE,
+    description        VARCHAR(200)
+);
