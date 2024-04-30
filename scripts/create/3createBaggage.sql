@@ -1,9 +1,3 @@
-CREATE TABLE BAGGAGE(
-    baggage_id            NUMBER       PRIMARY KEY,
-    baggage_type_id       VARCHAR(10)  NOT NULL  REFERENCES BAGGAGE_TYPE(baggage_type_id),
-    payment_id            VARCHAR(10)  NOT NULL  REFERENCES PAYMENT(payment_id),
-    flight_ticket_id      VARCHAR(13)  NOT NULL  REFERENCES FLIGHT_TICKET(flight_ticket_id),
-    baggage_weight_in_kg  NUMBER       NOT NULL,
-    price                 NUMBER       NOT NULL  CHECK(price > 0),
-    additional_info       VARCHAR(100)
-);
+version https://git-lfs.github.com/spec/v1
+oid sha256:0fbef3ca653bae136e1f1da403f7be2f466fdd089c9c809ef1c67f88576c9925
+size 496

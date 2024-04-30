@@ -1,6 +1,3 @@
--- https://www.kiwi.com/en/help/baggage-allowance-173/article/types-of-baggage-246/
-CREATE TABLE BAGGAGE_TYPE(
-    baggage_type_id           VARCHAR(3)    PRIMARY KEY,
-    baggage_type_name         VARCHAR(20)   NOT NULL UNIQUE,
-    baggage_type_description  VARCHAR(100)
-);
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc4906dd52aff50b80434532f4635d6c0285978a4d43d9aa3f0a3d97330305c5
+size 275

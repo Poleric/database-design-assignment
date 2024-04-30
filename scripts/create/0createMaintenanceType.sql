@@ -1,6 +1,3 @@
--- https://www.quora.com/What-are-the-types-of-aircraft-maintenance  https://en.wikipedia.org/wiki/Aircraft_maintenance_checks
-CREATE TABLE MAINTENANCE_TYPE(
-    maintenance_type_id           VARCHAR(4)    PRIMARY KEY ,
-    maintenance_type_name         VARCHAR(40)   NOT NULL UNIQUE,
-    maintenance_type_description  VARCHAR(200)  NOT NULL
-);
+version https://git-lfs.github.com/spec/v1
+oid sha256:e332b173751c1e59248c8eaa78a7dea0dcb0d190d0c857528383130bef3f5bf2
+size 344

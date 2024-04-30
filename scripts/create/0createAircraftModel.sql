@@ -1,7 +1,3 @@
-CREATE TABLE AIRCRAFT_MODEL (
-    aircraft_model_id   VARCHAR(4)   PRIMARY KEY ,  -- https://en.wikipedia.org/wiki/List_of_aircraft_type_designators
-    model_name          VARCHAR(30)  NOT NULL UNIQUE,
-    model_manufacturer  VARCHAR(30)  NOT NULL,
-    number_of_seat      NUMBER       NOT NULL CHECK (number_of_seat > 0),
-    release_date        DATE         NOT NULL
-);
+version https://git-lfs.github.com/spec/v1
+oid sha256:51435be18f40836db4ee465aa23cb1dcf9772aaad68b74b877c58ed05962fbf0
+size 373

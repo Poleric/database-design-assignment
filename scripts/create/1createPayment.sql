@@ -1,8 +1,3 @@
-CREATE TABLE PAYMENT(
-    payment_id         VARCHAR(10)  PRIMARY KEY,
-    payment_method_id  VARCHAR(10)  NOT NULL REFERENCES PAYMENT_METHOD(payment_method_id),
-    account_id         NUMBER       NOT NULL REFERENCES ACCOUNT(account_id),
-    created_at         TIMESTAMP    NOT NULL,
-    amount             NUMBER       NOT NULL CHECK (amount > 0),
-    reference          VARCHAR(200)
-);
+version https://git-lfs.github.com/spec/v1
+oid sha256:052ef15cfde1b8bf8aac712e2c5ef62ca6f4b1d6c007cc433b42b70e20c25809
+size 388

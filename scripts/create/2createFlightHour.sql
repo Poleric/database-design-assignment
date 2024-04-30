@@ -1,6 +1,3 @@
-CREATE TABLE FLIGHT_HOUR (
-    pilot_id           VARCHAR(6)  REFERENCES PILOT(pilot_id),
-    aircraft_model_id  VARCHAR(4)  REFERENCES AIRCRAFT_MODEL(aircraft_model_id),
-    flight_hour        NUMBER      CHECK(flight_hour > 0),
-    PRIMARY KEY (pilot_id, flight_hour)
-);
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4b848e58b40a8a0acc9e11faf01e315e2357d7bd93ea6dd6211f280a1f46633
+size 273

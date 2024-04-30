@@ -1,20 +1,3 @@
--- https://stackoverflow.com/questions/2549718/dropping-all-user-tables-sequences-in-oracle
-
-BEGIN
-
-    --Bye Sequences!
-    FOR i IN (SELECT us.sequence_name
-              FROM USER_SEQUENCES us)
-        LOOP
-            EXECUTE IMMEDIATE 'drop sequence ' || i.sequence_name || '';
-        END LOOP;
-
-    --Bye Tables!
-    FOR i IN (SELECT ut.table_name
-              FROM USER_TABLES ut)
-        LOOP
-            EXECUTE IMMEDIATE 'drop table ' || i.table_name || ' CASCADE CONSTRAINTS ';
-        END LOOP;
-
-END;
-/
+version https://git-lfs.github.com/spec/v1
+oid sha256:60572cc226f308eb0821d7e0cf76360f7d3b70c4ff3778461d225dabfcca43ae
+size 516

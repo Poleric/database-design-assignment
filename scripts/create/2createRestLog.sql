@@ -1,6 +1,3 @@
-CREATE TABLE REST_LOG (
-    rest_log_id     NUMBER      PRIMARY KEY,
-    pilot_id        VARCHAR(6)  NOT NULL  REFERENCES PILOT (pilot_id),
-    start_datetime  TIMESTAMP   NOT NULL,
-    end_datetime    TIMESTAMP   NOT NULL
-);
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e0f08138aaf141e5f51a12051f7ab422733885ae1a7f1d77c7d13011a7fbbad
+size 225

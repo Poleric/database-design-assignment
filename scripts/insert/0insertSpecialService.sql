@@ -1,7 +1,3 @@
-INSERT ALL
-    INTO SPECIAL_SERVICE (special_service_id, special_service_name, special_service_description) VALUES ('WIFI', 'In-flight Wi-Fi', 'In-flight Wi-Fi allows passengers to stay connected during their journey by providing access to the internet from their personal devices.')
-    INTO SPECIAL_SERVICE (special_service_id, special_service_name, special_service_description) VALUES ('EXLS', 'Extra Legroom Seats', 'Extra legroom seats offer passengers additional space to stretch out and relax during their flight.')
-    INTO SPECIAL_SERVICE (special_service_id, special_service_name, special_service_description) VALUES ('ENTE', 'In-flight Entertainment', 'In-flight entertainment systems offer passengers a variety of entertainment options to enjoy during their flight. This may include movies, TV shows, music, games, and other multimedia content. Includes WIFI')
-    INTO SPECIAL_SERVICE (special_service_id, special_service_name, special_service_description) VALUES ('VVIP', 'Very Very Important Person', 'Highly esteemed individuals are treated with the utmost service.')
-    INTO SPECIAL_SERVICE (special_service_id, special_service_name, special_service_description) VALUES ('DISA', 'Disabled', 'Provide special service and amenities to ensure a smooth and comfortable experience even when facing disability.')
-SELECT 1 FROM DUAL;
+version https://git-lfs.github.com/spec/v1
+oid sha256:c579a3a84d951a607525d2a673222d85097974fe532756a1d7e62e718853cb75
+size 1344

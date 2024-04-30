@@ -43,3 +43,5 @@
 *.PDF  diff=astextplain
 *.rtf  diff=astextplain
 *.RTF  diff=astextplain
+
+*.sql filter=lfs diff=lfs merge=lfs -text

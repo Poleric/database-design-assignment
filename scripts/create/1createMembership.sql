@@ -1,7 +1,3 @@
-CREATE TABLE MEMBERSHIP (
-    membership_id       NUMBER      PRIMARY KEY,
-    account_id          NUMBER      NOT NULL REFERENCES ACCOUNT(account_id),
-    membership_type_id  VARCHAR(4)  NOT NULL REFERENCES MEMBERSHIP_TYPE(membership_type_id),
-    accumulated_points  NUMBER      DEFAULT 0
-);
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:8dc5eaa9fb7c18d18c5987c85b1fef043a69bc74fb400f14864749d0991bcfd5
+size 295

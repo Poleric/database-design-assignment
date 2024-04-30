@@ -1,8 +1,3 @@
-CREATE TABLE FLIGHT_CREW_SCHEDULE(
-    employee_id     NUMBER      NOT NULL REFERENCES EMPLOYEE(employee_id),
-    flight_id       NUMBER      NOT NULL REFERENCES FLIGHT(flight_id),
-    crew_role_id    VARCHAR(4)  NOT NULL REFERENCES CREW_ROLE(crew_role_id),
-    clock_in_time   TIMESTAMP,
-    clock_out_time  TIMESTAMP,
-    PRIMARY KEY(employee_id, flight_id)
-);
+version https://git-lfs.github.com/spec/v1
+oid sha256:88309fb6465651c7afb6274517bf814b471808f20ea252701e8d4b255e3f5b99
+size 362

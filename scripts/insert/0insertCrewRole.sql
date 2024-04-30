@@ -1,8 +1,3 @@
-INSERT ALL
-    INTO CREW_ROLE (crew_role_id, role_name, role_description) VALUES ('CPTN', 'Captain', 'The captain of an aircraft is the person aboard an aircraft who is ultimately responsible for its operation and safety during flight.')
-    INTO CREW_ROLE (crew_role_id, role_name, role_description) VALUES ('FSOF', 'First Officer', 'The first officer, also called co-pilot, is a pilot in addition to the captain, who is the legal commander. In the event of incapacitation of the captain, the first officer will assume command of the aircraft.')
-    INTO CREW_ROLE (crew_role_id, role_name, role_description) VALUES ('SCOF', 'Second Officer', 'Before a pilot is fully qualified to operate as first officer, they will typically act as a second officer, sitting in the right hand seat, while undergoing training and supervision from a training captain.')
-    INTO CREW_ROLE (crew_role_id, role_name, role_description) VALUES ('FLEN', 'Flight Engineer', 'THe flight engineer, also sometimes called an air engineer, is the member of an aircraft''s flight crew who monitors and operates its complex aircraft systems.')
-    INTO CREW_ROLE (crew_role_id, role_name, role_description) VALUES ('PURS', 'Purser', 'The purser is the cabin manager. The purser oversees the flight attendants by making sure airline passengers are safe and comfortable. A flight purser completes detailed reports and verifies all safety procedures are followed.')
-    INTO CREW_ROLE (crew_role_id, role_name, role_description) VALUES ('FLAT', 'Flight Attendant', 'The role of a flight attendant is to "provide routine services and respond to emergencies to ensure the safety and comfort of airline passengers".')
-SELECT 1 FROM DUAL;
+version https://git-lfs.github.com/spec/v1
+oid sha256:1977e6436e030517eb868af9bdb0f576f7c55609b18959850a6b897a4fa653c8
+size 1703

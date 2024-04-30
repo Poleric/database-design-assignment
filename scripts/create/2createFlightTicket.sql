@@ -1,10 +1,3 @@
-CREATE TABLE FLIGHT_TICKET(
-    flight_ticket_id    VARCHAR(13)  PRIMARY KEY,
-    account_id          NUMBER       NOT NULL  REFERENCES ACCOUNT(account_id),
-    payment_id          VARCHAR(10)  NOT NULL  REFERENCES PAYMENT(payment_id),
-    created_at          TIMESTAMP    NOT NULL,
-    boarding_group      NUMBER       NOT NULL  CHECK (boarding_group > 0),
-    ticket_price        NUMBER(7,2)  NOT NULL  CHECK (ticket_price > 0),
-    ticket_status       VARCHAR(9)   NOT NULL  CHECK (ticket_status IN ('Completed', 'Paid', 'Cancelled') ),
-    special_service_id  VARCHAR(4)             REFERENCES SPECIAL_SERVICE(special_service_id)
-);
+version https://git-lfs.github.com/spec/v1
+oid sha256:2faec3d8e9b51a1bf3d45ec8056865070f72030c7436d4d7aa346b67703647b5
+size 636
